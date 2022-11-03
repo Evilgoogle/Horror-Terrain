@@ -1,0 +1,1516 @@
+13:41:47: Starting:
+World of Warcraft Model Viewer v0.7.0.1 r366 Windows 32-bit
+
+
+13:41:47: Initiating Objects...
+13:41:47: Creating Anim Control...
+13:41:47: Creating Char Control...
+13:41:47: Creating Light Control...
+13:41:47: Creating Model Control...
+13:41:47: Creating Settings Control...
+13:41:47: Creating Model Bank Control...
+13:41:47: Creating Model Opened...
+13:41:47: Creating Model Export Options Control...
+13:41:47: Creating OpenGL Canvas...
+13:41:47: Initiating OpenGL...
+13:41:48: Info: GLEW successfully initiated.
+
+13:41:48: Video Renderer: Intel(R) HD Graphics 630
+13:41:48: Video Vendor: Intel
+13:41:48: Driver Version: 4.5.0 - Build 22.20.16.4836
+13:41:48: Support wglPixelFormat: true
+13:41:48: Support Texture Compression: true
+13:41:48: Support Multi-Textures: true
+13:41:48: Support Draw Range Elements: true
+13:41:48: Support Vertex Buffer Objects: true
+13:41:48: Support Point Sprites: true
+13:41:48: Support Pixel Shaders: true
+13:41:48: Support Vertex Shaders: true
+13:41:48: Support GLSL: true
+13:41:48: Support Anti-Aliasing: true
+13:41:48: Support Pixel Buffer Objects: false
+13:41:48: Support Frame Buffer Objects: true
+13:41:48: Support Non-Power-of-Two: true
+13:41:48: Support Rectangle Textures: true
+13:41:48: Support OpenGL 2.0: true
+13:41:48: Max Rectangle Texture Size Supported: 16384
+13:41:48: Max Texture Size Supported: 16384
+
+13:41:48: Loading Session settings from: D:\Games\Warcraft 3 Frozen Throne\maps\makes\horror terain\program\WMV_Binary_v0701_r366_Win32_DevWork\WMV_Binary_v0701_r366_Win32_DevWork\userSettings\Config.ini
+
+13:41:48: Initiating File Menu..
+13:41:48: Initiating GUI Docking.
+13:41:48: Max Lights used: 4
+13:41:49: Setting OpenGL render state...
+13:41:49: Initiating Archives...
+
+13:41:49: Game Data Path: D:\Setup\Game\World of Warcraft Sirus\Data\
+13:41:49: Use Local Files: false
+
+13:41:49: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-9.mpq
+13:41:49: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-8.mpq
+13:41:50: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-7.mpq
+13:41:50: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-6.mpq
+13:41:51: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-5.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-4.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-3.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch-2.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\patch.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\lichking.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\expansion.mpq
+13:41:52: Opening D:\Setup\Game\World of Warcraft Sirus\Data\common-2.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\common.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\patch-ruRU-6.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\patch-ruRU-5.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\patch-ruRU-4.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\patch-ruRU.mpq
+13:41:54: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\lichking-locale-ruRU.mpq
+13:41:55: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\expansion-locale-ruRU.mpq
+13:41:55: Opening D:\Setup\Game\World of Warcraft Sirus\Data\ruRU\locale-ruRU.mpq
+13:41:55: Loaded Content TOC: v3.03.00
+13:41:55: Loaded Content Version: 12340
+13:41:55: InitMPQArchives result: true
+13:41:57: Initiating Databases...
+13:41:58: Finished initiating database files.
+13:41:58: Info: GUI Layout loaded from previous session.
+13:41:58: WoW Model Viewer successfully loaded!
+----
+
+13:46:12: Loading model: Character\Human\male\humanmale.m2, size: 1585376
+
+13:46:12: Info: Added Body.blp to the TextureList via specialTextures.
+13:46:12: Info: Added Hair.blp to the TextureList via specialTextures.
+13:46:12: Loading texture: CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP
+13:46:12: Info: Added CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP to the TextureList.
+13:46:12: Info: Added Cape.blp to the TextureList via specialTextures.
+13:46:13: Loading texture: Character\Human\Hair03_07_HD.blp
+13:46:13: Loading texture: Character\Human\Male\HumanMaleSkin00_06_HD.blp
+13:46:13: Loading texture: Character\Human\Male\HumanMaleNakedPelvisSkin00_06_HD.blp
+13:46:13: Loading texture: Character\Human\Male\HumanMaleFaceLower01_06_HD.blp
+13:46:13: Loading texture: Character\Human\Male\HumanMaleFaceUpper01_06_HD.blp
+13:46:13: Loading texture: Character\Human\FacialLowerHair06_07_HD.blp
+13:46:13: Error: Could not load the texture 'Character\Human\FacialUpperHair06_07_HD.blp'
+13:46:13: Loading texture: Character\Human\ScalpLowerHair04_07_HD.blp
+13:46:13: Loading texture: Character\Human\ScalpUpperHair04_07_HD.blp
+13:46:26: Loading model: Character\Human\female\humanfemale.m2, size: 1518736
+
+13:46:26: Info: Added Body.blp to the TextureList via specialTextures.
+13:46:26: Info: Added Hair.blp to the TextureList via specialTextures.
+13:46:26: Loading texture: CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP
+13:46:26: Info: Added CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP to the TextureList.
+13:46:26: Info: Added Cape.blp to the TextureList via specialTextures.
+13:46:26: DBC facial feature Error: .\charcontrol.cpp : line #849 : CharControl::RefreshModel
+13:46:26: Loading texture: Character\Human\Hair01_08_HD.blp
+13:46:26: Loading texture: Character\Human\Female\HumanFemaleSkin00_03_HD.blp
+13:46:26: Loading texture: Character\Human\Female\HumanFemaleNakedPelvisSkin00_03_HD.blp
+13:46:26: Loading texture: Character\Human\Female\HumanFemaleNakedTorsoSkin00_03_HD.blp
+13:46:26: Loading texture: Character\Human\Female\HumanFemaleFaceLower28_03_HD.blp
+13:46:26: Loading texture: Character\Human\Female\HumanFemaleFaceUpper28_03_HD.blp
+13:46:26: Loading texture: Character\Human\ScalpLowerHair00_08_HD.blp
+13:46:26: Loading texture: Character\Human\ScalpUpperHair00_08_HD.blp
+13:46:35: Loading model: Character\Broken\male\brokenmale.m2, size: 1035152
+
+13:46:35: Info: Added Body.blp to the TextureList via specialTextures.
+13:46:35: Loading texture: CHARACTER\BROKEN\MALE\BROKENEYEGLOWBLUEGREEN.BLP
+13:46:35: Info: Added CHARACTER\BROKEN\MALE\BROKENEYEGLOWBLUEGREEN.BLP to the TextureList.
+13:46:35: Info: Added Hair.blp to the TextureList via specialTextures.
+13:46:35: Info: Added Cape.blp to the TextureList via specialTextures.
+13:46:35: DBC facial feature geosets Error: .\charcontrol.cpp : line #840 : CharControl::RefreshModel
+13:46:35: DBC facial feature Error: .\charcontrol.cpp : line #849 : CharControl::RefreshModel
+13:46:35: Loading texture: Character\Broken\Hair00_02.blp
+13:46:35: Loading texture: Character\Broken\Male\BrokenMaleSkin00_04.blp
+13:46:35: Loading texture: Character\Broken\Male\BrokenMaleNakedPelvisSkin00_04.blp
+13:46:35: Error: Could not load the texture 'Character\Broken\Male\BrokenMaleNakedTorsoSkin00_04.blp'
+13:46:35: Loading texture: Character\Broken\Male\BrokenMaleFaceLower00_04.blp
+13:46:35: Loading texture: Character\Broken\Male\BrokenMaleFaceUpper00_04.blp
+13:46:35: Error: Could not load the texture 'Character\Broken\ScalpLowerHair00_02.blp'
+13:46:35: Error: Could not load the texture 'Character\Broken\ScalpUpperHair00_02.blp'
+13:46:45: Loading model: Creature\Abyssalillidan\abyssal_illidan.m2, size: 380192
+
+13:46:45: Loading texture: CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN.BLP
+13:46:45: Info: Added CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN.BLP to the TextureList.
+13:46:45: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:46:45: Loading texture: CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN_02.BLP
+13:46:45: Info: Added CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN_02.BLP to the TextureList.
+13:46:45: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:46:45: Loading texture: CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN_03.BLP
+13:46:45: Info: Added CREATURE\ABYSSALILLIDAN\INFERNALSKIN_ILLADIN_03.BLP to the TextureList.
+13:46:45: Loading texture: SPELLS\FIRE1.BLP
+13:46:45: Info: Added SPELLS\FIRE1.BLP to the TextureList.
+13:46:45: Loading texture: Creature\Abyssalillidan\InfernalSkin_Illadin.blp
+13:46:45: Loading texture: Creature\Abyssalillidan\InfernalSkin_Illadin_02.blp
+13:46:47: Loading model: Creature\Abyssaloutland\abyssal_outland.m2, size: 325618
+
+13:46:47: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:46:47: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:46:47: Loading texture: Creature\AbyssalOutland\Fire_2x2_Sharp_Mod4x.blp
+13:46:47: Info: Added Creature\AbyssalOutland\Fire_2x2_Sharp_Mod4x.blp to the TextureList.
+13:46:47: Loading texture: Creature\AbyssalOutland\Fire_Bright_Mod2x_A.blp
+13:46:47: Info: Added Creature\AbyssalOutland\Fire_Bright_Mod2x_A.blp to the TextureList.
+13:46:47: Loading texture: Creature\Abyssaloutland\InfernalSkin_Outland.blp
+13:46:47: Loading texture: Creature\Abyssaloutland\InfernalSkin_Outland_02.blp
+13:46:48: Loading model: Creature\Airelemental\airelemental.m2, size: 148544
+
+13:46:48: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:46:49: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:46:49: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:46:49: Loading texture: WORLD\AZEROTH\DEADMINES\PASSIVEDOODADS\GOBLINMELTINGPOT\DUST2.BLP
+13:46:49: Info: Added WORLD\AZEROTH\DEADMINES\PASSIVEDOODADS\GOBLINMELTINGPOT\DUST2.BLP to the TextureList.
+13:46:49: Loading texture: Creature\Airelemental\AirElementalSkin.blp
+13:46:50: Loading model: Creature\Akama\akama.m2, size: 913200
+
+13:46:50: Loading texture: CREATURE\AKAMA\AKAMA.BLP
+13:46:50: Info: Added CREATURE\AKAMA\AKAMA.BLP to the TextureList.
+13:46:50: Loading texture: CREATURE\LOSTONE\LOSTONE_SKULLBAG.BLP
+13:46:50: Info: Added CREATURE\LOSTONE\LOSTONE_SKULLBAG.BLP to the TextureList.
+13:46:50: Loading texture: CREATURE\AKAMA\AKAMAEYEGLOWBLUE.BLP
+13:46:50: Info: Added CREATURE\AKAMA\AKAMAEYEGLOWBLUE.BLP to the TextureList.
+13:46:50: Loading texture: CREATURE\AKAMA\AKAMABRACERSKIRTBELT.BLP
+13:46:50: Info: Added CREATURE\AKAMA\AKAMABRACERSKIRTBELT.BLP to the TextureList.
+13:46:50: Loading texture: CREATURE\BODYOFKATHUNE\EYEREFLECT.BLP
+13:46:50: Info: Added CREATURE\BODYOFKATHUNE\EYEREFLECT.BLP to the TextureList.
+13:46:53: Loading model: Creature\Alexstrasza\alexstrasza.m2, size: 4459328
+
+13:46:53: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA3.BLP
+13:46:53: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA3.BLP to the TextureList.
+13:46:53: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA2.BLP
+13:46:53: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA2.BLP to the TextureList.
+13:46:53: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA1.BLP
+13:46:53: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA1.BLP to the TextureList.
+13:46:53: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP
+13:46:53: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP to the TextureList.
+13:46:54: Loading model: Creature\Alexstrasza\ladyalexstrasa.m2, size: 1669360
+
+13:46:54: Loading texture: Creature\Alexstrasza\LadyAlexstrasaSkin1.blp
+13:46:54: Info: Added Creature\Alexstrasza\LadyAlexstrasaSkin1.blp to the TextureList.
+13:46:54: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+13:46:54: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+13:46:54: Loading texture: Creature\Alexstrasza\LadyAlexstrasaGlow.blp
+13:46:54: Info: Added Creature\Alexstrasza\LadyAlexstrasaGlow.blp to the TextureList.
+13:46:55: Loading texture: Creature\Alexstrasza\LadyAlexstrasaSkin2.blp
+13:46:55: Info: Added Creature\Alexstrasza\LadyAlexstrasaSkin2.blp to the TextureList.
+13:46:56: Loading model: Creature\Alexstrasza\alexstrasza.m2, size: 4459328
+
+13:46:56: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA3.BLP
+13:46:56: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA3.BLP to the TextureList.
+13:46:56: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA2.BLP
+13:46:56: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA2.BLP to the TextureList.
+13:46:56: Loading texture: CREATURE\ALEXSTRASZA\ALEXSTRASZA1.BLP
+13:46:56: Info: Added CREATURE\ALEXSTRASZA\ALEXSTRASZA1.BLP to the TextureList.
+13:46:57: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP
+13:46:57: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP to the TextureList.
+13:47:00: Loading model: Creature\Alglontheobserver\algalontheobserver.m2, size: 2072464
+
+13:47:00: Loading texture: CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_01.BLP
+13:47:00: Info: Added CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_01.BLP to the TextureList.
+13:47:00: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP
+13:47:00: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP to the TextureList.
+13:47:00: Loading texture: CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP
+13:47:00: Info: Added CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP to the TextureList.
+13:47:00: Info: Added CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP to the TextureList.
+13:47:00: Loading texture: CREATURE\WISP\STAR2_32.BLP
+13:47:00: Info: Added CREATURE\WISP\STAR2_32.BLP to the TextureList.
+13:47:13: Loading model: Creature\Zuljin\zuljin.m2, size: 708656
+
+13:47:13: Loading texture: CREATURE\ZULJIN\ZULJIN_SKIN.BLP
+13:47:13: Info: Added CREATURE\ZULJIN\ZULJIN_SKIN.BLP to the TextureList.
+13:47:13: Loading texture: CREATURE\ZULJIN\ZULJIN_SCARFANDHAIR.BLP
+13:47:13: Info: Added CREATURE\ZULJIN\ZULJIN_SCARFANDHAIR.BLP to the TextureList.
+13:47:16: Loading model: Creature\Zuldrakgolem\zuldrakgolem.m2, size: 254048
+
+13:47:16: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:16: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:47:16: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:47:16: Loading texture: CREATURE\EREDAR\PRIESTHELM02.BLP
+13:47:16: Info: Added CREATURE\EREDAR\PRIESTHELM02.BLP to the TextureList.
+13:47:16: Loading texture: Creature\Zuldrakgolem\ZuldrakGolemRed.blp
+13:47:22: Loading model: Creature\Vapor\vapor.m2, size: 7904
+
+13:47:22: Loading texture: SPELLS\T_VFX_AURA01.BLP
+13:47:22: Info: Added SPELLS\T_VFX_AURA01.BLP to the TextureList.
+13:47:22: Loading texture: SPELLS\T_VFX_SMOKE_CREEPY.BLP
+13:47:22: Info: Added SPELLS\T_VFX_SMOKE_CREEPY.BLP to the TextureList.
+13:47:22: Loading texture: CREATURE\GHOST\BLACK32.BLP
+13:47:22: Info: Added CREATURE\GHOST\BLACK32.BLP to the TextureList.
+13:47:24: Loading model: Creature\Velen\velen.m2, size: 1685216
+
+13:47:25: Loading texture: Creature\Velen\VelenSkinNaked.blp
+13:47:25: Info: Added Creature\Velen\VelenSkinNaked.blp to the TextureList.
+13:47:25: Loading texture: Creature\Velen\Velen.blp
+13:47:25: Info: Added Creature\Velen\Velen.blp to the TextureList.
+13:47:25: Loading texture: Creature\Velen\VelenShoulder.blp
+13:47:25: Info: Added Creature\Velen\VelenShoulder.blp to the TextureList.
+13:47:25: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+13:47:25: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList.
+13:47:25: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+13:47:25: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+13:47:25: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:47:25: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:47:25: Loading texture: Creature\Velen\VelenShoulderRed.blp
+13:47:25: Info: Added Creature\Velen\VelenShoulderRed.blp to the TextureList.
+13:47:25: Loading texture: Creature\Velen\VelenHair.blp
+13:47:25: Info: Added Creature\Velen\VelenHair.blp to the TextureList.
+13:47:25: Loading texture: CHARACTER\DRAENEI\MALE\DRAENEIMALESKIN00_12.BLP
+13:47:25: Info: Added CHARACTER\DRAENEI\MALE\DRAENEIMALESKIN00_12.BLP to the TextureList.
+13:47:25: Loading texture: CHARACTER\DRAENEI\MALE\SIGIL02.BLP
+13:47:25: Info: Added CHARACTER\DRAENEI\MALE\SIGIL02.BLP to the TextureList.
+13:47:25: Loading texture: CHARACTER\DRAENEI\MALE\DRAENEIMALEEYEGLOWBLUE.BLP
+13:47:25: Info: Added CHARACTER\DRAENEI\MALE\DRAENEIMALEEYEGLOWBLUE.BLP to the TextureList.
+13:47:25: Info: Added Body.blp to the TextureList via specialTextures.
+13:47:27: Loading model: Creature\Voidcaller\voidcaller.m2, size: 656176
+
+13:47:27: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:27: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:47:27: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:47:27: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:27: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:27: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:27: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:27: Loading texture: CREATURE\VOIDCALLER\VOIDCALLER_GLOW02.BLP
+13:47:27: Info: Added CREATURE\VOIDCALLER\VOIDCALLER_GLOW02.BLP to the TextureList.
+13:47:27: Loading texture: CREATURE\VOIDCALLER\VOIDCALLER_GLOW01.BLP
+13:47:27: Info: Added CREATURE\VOIDCALLER\VOIDCALLER_GLOW01.BLP to the TextureList.
+13:47:27: Loading texture: CREATURE\VOIDWALKER\TORNADO2C.BLP
+13:47:27: Info: Added CREATURE\VOIDWALKER\TORNADO2C.BLP to the TextureList.
+13:47:27: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:47:27: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:47:28: Loading texture: Creature\Voidcaller\voidcallerskin_black.blp
+13:47:30: Loading model: Creature\Voidgod\voidgod.m2, size: 207408
+
+13:47:30: Loading texture: CREATURE\MURU\VOIDGOD_SKIN.BLP
+13:47:30: Info: Added CREATURE\MURU\VOIDGOD_SKIN.BLP to the TextureList.
+13:47:30: Loading texture: CREATURE\VOIDGOD\VOIDGOD_ARMOR.BLP
+13:47:30: Info: Added CREATURE\VOIDGOD\VOIDGOD_ARMOR.BLP to the TextureList.
+13:47:30: Loading texture: WORLD\OUTLAND\PASSIVEDOODADS\HANGINGCRYSTALS\FLARE_LOW.BLP
+13:47:30: Info: Added WORLD\OUTLAND\PASSIVEDOODADS\HANGINGCRYSTALS\FLARE_LOW.BLP to the TextureList.
+13:47:30: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:47:30: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:47:30: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:30: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:30: Loading texture: CREATURE\VOIDGOD\VOIDGOD_ARMOR_GLOW.BLP
+13:47:30: Info: Added CREATURE\VOIDGOD\VOIDGOD_ARMOR_GLOW.BLP to the TextureList.
+13:47:30: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:30: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:30: Loading texture: CREATURE\VOIDWALKER\SMOKE01.BLP
+13:47:30: Info: Added CREATURE\VOIDWALKER\SMOKE01.BLP to the TextureList.
+13:47:31: Loading texture: CREATURE\VOIDWALKER\TORNADO2C.BLP
+13:47:31: Info: Added CREATURE\VOIDWALKER\TORNADO2C.BLP to the TextureList.
+13:47:31: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:47:31: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:47:34: Loading model: Creature\Voidlord\voidlord.m2, size: 483812
+
+13:47:34: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:34: Loading texture: CREATURE\VOIDWALKEROUTLAND\VOIDWALKEROUTLANDARMOR_PURPLE.BLP
+13:47:34: Info: Added CREATURE\VOIDWALKEROUTLAND\VOIDWALKEROUTLANDARMOR_PURPLE.BLP to the TextureList.
+13:47:34: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:47:34: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_HARD.BLP
+13:47:34: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_HARD.BLP to the TextureList.
+13:47:34: Loading texture: WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP
+13:47:34: Info: Added WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP to the TextureList.
+13:47:34: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:34: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:34: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP
+13:47:34: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP to the TextureList.
+13:47:34: Loading texture: CREATURE\VOIDWALKER\TORNADO2C.BLP
+13:47:34: Info: Added CREATURE\VOIDWALKER\TORNADO2C.BLP to the TextureList.
+13:47:34: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:47:34: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:47:34: Loading texture: WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\GLOWBALL02.BLP
+13:47:34: Info: Added WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\GLOWBALL02.BLP to the TextureList.
+13:47:34: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:34: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:34: Loading texture: CREATURE\VOIDWRAITH\SMOKE01.BLP
+13:47:34: Info: Added CREATURE\VOIDWRAITH\SMOKE01.BLP to the TextureList.
+13:47:34: Loading texture: Creature\Voidlord\VoidLordSkin_Blue.blp
+13:47:34: Loading texture: Creature\Voidlord\VoidLordArmor_Purple.blp
+13:47:36: Loading model: Creature\Voidterror\voidterror.m2, size: 299234
+
+13:47:36: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:36: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP
+13:47:36: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP to the TextureList.
+13:47:36: Loading texture: Creature\Voidterror\voidterrorskinblack.blp
+13:47:37: Loading model: Creature\Voidwalker\voidwalker.m2, size: 460032
+
+13:47:37: Loading texture: CREATURE\VOIDWALKER\SMOKE01.BLP
+13:47:37: Info: Added CREATURE\VOIDWALKER\SMOKE01.BLP to the TextureList.
+13:47:37: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:37: Loading texture: CREATURE\VOIDWALKER\VOIDWALKERSKIN.BLP
+13:47:37: Info: Added CREATURE\VOIDWALKER\VOIDWALKERSKIN.BLP to the TextureList.
+13:47:37: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:47:37: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:47:37: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:37: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:37: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:37: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:37: Loading texture: Creature\Voidwalker\smokebase.blp
+13:47:38: Loading model: Creature\Voidwalkeroutland\voidwalker_outland.m2, size: 416432
+
+13:47:38: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:38: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:47:38: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_HARD.BLP
+13:47:38: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_HARD.BLP to the TextureList.
+13:47:38: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:47:38: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:47:38: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:38: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:38: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP
+13:47:38: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP to the TextureList.
+13:47:38: Loading texture: CREATURE\VOIDWALKER\TORNADO2C.BLP
+13:47:38: Info: Added CREATURE\VOIDWALKER\TORNADO2C.BLP to the TextureList.
+13:47:38: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:47:38: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:47:38: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:38: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:38: Loading texture: CREATURE\VOIDWALKER\SMOKE01.BLP
+13:47:38: Info: Added CREATURE\VOIDWALKER\SMOKE01.BLP to the TextureList.
+13:47:39: Loading texture: Creature\Voidwalkeroutland\VoidWalkerOutlandSkin_Blue.blp
+13:47:39: Loading texture: Creature\Voidwalkeroutland\VoidWalkerOutlandArmor_Purple.blp
+13:47:40: Loading model: Creature\Voidwraith\voidwraith.m2, size: 444560
+
+13:47:40: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:40: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:47:40: Loading texture: WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP
+13:47:40: Info: Added WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP to the TextureList.
+13:47:40: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:47:40: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:47:40: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP
+13:47:40: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\LIGHTNINGBOLTBLUE03.BLP to the TextureList.
+13:47:40: Loading texture: CREATURE\VOIDWALKER\SMOKEBASE.BLP
+13:47:40: Info: Added CREATURE\VOIDWALKER\SMOKEBASE.BLP to the TextureList.
+13:47:40: Loading texture: CREATURE\VOIDWRAITH\SMOKE01.BLP
+13:47:40: Info: Added CREATURE\VOIDWRAITH\SMOKE01.BLP to the TextureList.
+13:47:40: Loading texture: CREATURE\VOIDWALKER\TORNADO2C.BLP
+13:47:40: Info: Added CREATURE\VOIDWALKER\TORNADO2C.BLP to the TextureList.
+13:47:40: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:47:40: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:47:40: Loading texture: Creature\Voidwraith\VoidWraithSkin_Turquoise.blp
+13:47:44: Loading model: Creature\Vrykulboat\transport_vrykul_medium.m2, size: 77008
+
+13:47:44: Loading texture: CREATURE\VRYKULBOAT\WOOD.BLP
+13:47:44: Info: Added CREATURE\VRYKULBOAT\WOOD.BLP to the TextureList.
+13:47:44: Loading texture: CREATURE\VRYKULBOAT\VRYKUL_WINGSAIL.BLP
+13:47:44: Info: Added CREATURE\VRYKULBOAT\VRYKUL_WINGSAIL.BLP to the TextureList.
+13:47:44: Loading texture: CREATURE\VRYKULBOAT\VRYKULDRAGONMAST.BLP
+13:47:44: Info: Added CREATURE\VRYKULBOAT\VRYKULDRAGONMAST.BLP to the TextureList.
+13:47:44: Loading texture: CREATURE\VRYKULBOAT\TRIM_01.BLP
+13:47:44: Info: Added CREATURE\VRYKULBOAT\TRIM_01.BLP to the TextureList.
+13:47:44: Loading texture: CREATURE\VRYKULBOAT\VRYKUL_SEAVESSEL_WOOD01.BLP
+13:47:44: Info: Added CREATURE\VRYKULBOAT\VRYKUL_SEAVESSEL_WOOD01.BLP to the TextureList.
+13:47:48: Loading model: Creature\Vrykulfemale\frostvrykulfemalecaster.m2, size: 1421968
+
+13:47:49: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECASTER.BLP
+13:47:49: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECASTER.BLP to the TextureList.
+13:47:49: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:47:49: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:47:49: Loading texture: SPELLS\FROST3.BLP
+13:47:49: Info: Added SPELLS\FROST3.BLP to the TextureList.
+13:47:49: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:47:49: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:47:49: Loading texture: PARTICLES\BREATH24.BLP
+13:47:49: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:47:52: Loading model: Creature\Vrykulfemale\femalevrykulboss.m2, size: 681104
+
+13:47:52: Loading texture: CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS1.BLP
+13:47:52: Info: Added CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS1.BLP to the TextureList.
+13:47:52: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:47:52: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:47:52: Loading texture: CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS2.BLP
+13:47:52: Info: Added CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS2.BLP to the TextureList.
+13:47:54: Loading model: Creature\Vrykulfemale\frostvrykulfemalewarrior.m2, size: 1542576
+
+13:47:54: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEWARRIOR.BLP
+13:47:54: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEWARRIOR.BLP to the TextureList.
+13:47:54: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:47:54: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:47:54: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHELMET.BLP
+13:47:54: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHELMET.BLP to the TextureList.
+13:47:54: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:47:54: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:47:54: Loading texture: PARTICLES\BREATH24.BLP
+13:47:54: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:47:57: Loading model: Creature\Vrykulfemale\frostvrykulfemaledruid.m2, size: 1450160
+
+13:47:57: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:47:57: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:47:57: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID1.BLP
+13:47:57: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID1.BLP to the TextureList.
+13:47:57: Loading texture: PARTICLES\BREATH24.BLP
+13:47:57: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:47:57: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID2.BLP
+13:47:57: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID2.BLP to the TextureList.
+13:47:59: Loading model: Creature\Vrykulfemale\frostvrykulfemalewarrior.m2, size: 1542576
+
+13:47:59: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEWARRIOR.BLP
+13:47:59: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEWARRIOR.BLP to the TextureList.
+13:47:59: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:47:59: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:47:59: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHELMET.BLP
+13:47:59: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHELMET.BLP to the TextureList.
+13:47:59: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:47:59: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:47:59: Loading texture: PARTICLES\BREATH24.BLP
+13:47:59: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:48:01: Loading model: Creature\Vrykulfemale\frostvrykulfemalehunter.m2, size: 1479712
+
+13:48:01: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP
+13:48:01: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP to the TextureList.
+13:48:01: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTERHAIR.BLP
+13:48:01: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTERHAIR.BLP to the TextureList.
+13:48:01: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER.BLP
+13:48:01: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER.BLP to the TextureList.
+13:48:01: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER2.BLP
+13:48:01: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER2.BLP to the TextureList.
+13:48:01: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:48:01: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:48:01: Loading texture: PARTICLES\BREATH24.BLP
+13:48:01: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:48:04: Loading model: Creature\Vrykulfemale\frostvrykulfemaledruid.m2, size: 1450160
+
+13:48:04: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:48:04: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:48:04: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID1.BLP
+13:48:04: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID1.BLP to the TextureList.
+13:48:04: Loading texture: PARTICLES\BREATH24.BLP
+13:48:04: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:48:04: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID2.BLP
+13:48:04: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEDRUID2.BLP to the TextureList.
+13:48:07: Loading model: Creature\Vrykulfemale\frostvrykulfemalehunter.m2, size: 1479712
+
+13:48:07: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP
+13:48:07: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP to the TextureList.
+13:48:07: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTERHAIR.BLP
+13:48:07: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTERHAIR.BLP to the TextureList.
+13:48:07: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER.BLP
+13:48:07: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER.BLP to the TextureList.
+13:48:07: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER2.BLP
+13:48:07: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHUNTER2.BLP to the TextureList.
+13:48:07: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:48:07: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:48:07: Loading texture: PARTICLES\BREATH24.BLP
+13:48:07: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:48:10: Loading model: Creature\Vrykulfemale\frostvrykulfemalecaster.m2, size: 1421968
+
+13:48:10: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECASTER.BLP
+13:48:10: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECASTER.BLP to the TextureList.
+13:48:10: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP
+13:48:10: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALEHAIR.BLP to the TextureList.
+13:48:10: Loading texture: SPELLS\FROST3.BLP
+13:48:10: Info: Added SPELLS\FROST3.BLP to the TextureList.
+13:48:10: Loading texture: CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP
+13:48:10: Info: Added CREATURE\VRYKULFEMALE\FROSTVRYKULFEMALECAPE.BLP to the TextureList.
+13:48:10: Loading texture: PARTICLES\BREATH24.BLP
+13:48:10: Info: Added PARTICLES\BREATH24.BLP to the TextureList.
+13:48:12: Loading model: Creature\Vrykulfemale\femalevrykulboss.m2, size: 681104
+
+13:48:12: Loading texture: CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS1.BLP
+13:48:12: Info: Added CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS1.BLP to the TextureList.
+13:48:12: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:48:12: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:48:13: Loading texture: CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS2.BLP
+13:48:13: Info: Added CREATURE\VRYKULFEMALE\FEMALEVRYKULBOSS2.BLP to the TextureList.
+13:48:30: Loading model: Creature\Wailingwindscreature\wailingwindscreature.m2, size: 16656
+
+13:48:30: Loading texture: SPELLS\SHOULDER_ROBE_RAIDPRIEST_F_01AA.BLP
+13:48:30: Info: Added SPELLS\SHOULDER_ROBE_RAIDPRIEST_F_01AA.BLP to the TextureList.
+13:48:30: Loading texture: SPELLS\YELLOW_GLOW3A.BLP
+13:48:30: Info: Added SPELLS\YELLOW_GLOW3A.BLP to the TextureList.
+13:48:30: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\REDSTARFLASH.BLP
+13:48:30: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\REDSTARFLASH.BLP to the TextureList.
+13:48:32: Loading model: Creature\Warhorse\argentwarhorse.m2, size: 397552
+
+13:48:32: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:32: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+13:48:32: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+13:48:32: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:48:32: Loading texture: Creature\Warhorse\warhorse.blp
+13:48:34: Loading model: Creature\Warhorse\pvpwarhorse.m2, size: 393872
+
+13:48:34: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:34: Loading texture: CREATURE\FROSTSABRE\GEMSHINE1.BLP
+13:48:34: Info: Added CREATURE\FROSTSABRE\GEMSHINE1.BLP to the TextureList.
+13:48:34: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP
+13:48:34: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP to the TextureList.
+13:48:34: Loading texture: CREATURE\MOUNTEDDEATHKNIGHT\SMOKE02_FLIP.BLP
+13:48:34: Info: Added CREATURE\MOUNTEDDEATHKNIGHT\SMOKE02_FLIP.BLP to the TextureList.
+13:48:34: Loading texture: CREATURE\MOUNTEDDEATHKNIGHT\SMOKE02A.BLP
+13:48:34: Info: Added CREATURE\MOUNTEDDEATHKNIGHT\SMOKE02A.BLP to the TextureList.
+13:48:34: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:48:34: Loading texture: Creature\Warhorse\WarHorseEvilEpic.blp
+13:48:34: Loading texture: Creature\Warhorse\PVPWARHORSEEYEGLOWRED.blp
+13:48:35: Loading model: Creature\Warhorse\warhorse.m2, size: 346352
+
+13:48:35: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:35: Loading texture: Creature\Warhorse\tourneypvpwarhorse copy.blp
+13:48:36: Loading model: Creature\Warpstalker\warpstalker.m2, size: 433888
+
+13:48:36: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:37: Loading texture: Creature\Warpstalker\warpstalkerskinwhite.blp
+13:48:39: Loading model: Creature\Warpstorm\warpstorm.m2, size: 18320
+
+13:48:39: Loading texture: CREATURE\SPELLS\SHOCKWAVE4WHITE.BLP
+13:48:39: Info: Added CREATURE\SPELLS\SHOCKWAVE4WHITE.BLP to the TextureList.
+13:48:39: Loading texture: SPELLS\GENERICGLOW_BLACK.BLP
+13:48:39: Info: Added SPELLS\GENERICGLOW_BLACK.BLP to the TextureList.
+13:48:39: Loading texture: SPELLS\TOONSMOKE16.BLP
+13:48:39: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList.
+13:48:39: Loading texture: CREATURE\WARPSTORM\LIGHTNINGBOLTBLUE01.BLP
+13:48:39: Info: Added CREATURE\WARPSTORM\LIGHTNINGBOLTBLUE01.BLP to the TextureList.
+13:48:39: Loading texture: SPELLS\LIGHTNING3.BLP
+13:48:39: Info: Added SPELLS\LIGHTNING3.BLP to the TextureList.
+13:48:40: Loading texture: SPELLS\GRADIENT64FLIPA.BLP
+13:48:40: Info: Added SPELLS\GRADIENT64FLIPA.BLP to the TextureList.
+13:48:40: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\GLOWBALL03.BLP
+13:48:40: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\GLOWBALL03.BLP to the TextureList.
+13:48:41: Loading model: Creature\Waterbubblecreature\waterbubblecreature.m2, size: 22224
+
+13:48:41: Loading texture: CREATURE\WATERBUBBLECREATURE\WATERBUBBLE_BUBBLE.BLP
+13:48:41: Info: Added CREATURE\WATERBUBBLECREATURE\WATERBUBBLE_BUBBLE.BLP to the TextureList.
+13:48:41: Loading texture: CREATURE\WATERBUBBLECREATURE\WATERBUBBLE_STARFIELD.BLP
+13:48:41: Info: Added CREATURE\WATERBUBBLECREATURE\WATERBUBBLE_STARFIELD.BLP to the TextureList.
+13:48:43: Loading model: Creature\Waterelemental\waterelemental.m2, size: 598242
+
+13:48:43: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:43: Loading texture: CREATURE\WATERELEMENTAL\WATERELEMENTALREFLECT.BLP
+13:48:43: Info: Added CREATURE\WATERELEMENTAL\WATERELEMENTALREFLECT.BLP to the TextureList.
+13:48:43: Loading texture: CREATURE\WATERELEMENTAL\WATERSPLASHARM.BLP
+13:48:43: Info: Added CREATURE\WATERELEMENTAL\WATERSPLASHARM.BLP to the TextureList.
+13:48:43: Loading texture: CREATURE\WATERELEMENTAL\WATERSPLASH01.BLP
+13:48:43: Info: Added CREATURE\WATERELEMENTAL\WATERSPLASH01.BLP to the TextureList.
+13:48:43: Loading texture: CREATURE\WATERELEMENTAL\DUST5AWATER02.BLP
+13:48:43: Info: Added CREATURE\WATERELEMENTAL\DUST5AWATER02.BLP to the TextureList.
+13:48:43: Loading texture: CREATURE\WATERELEMENTAL\WHITERINGNOISEWATER.BLP
+13:48:43: Info: Added CREATURE\WATERELEMENTAL\WHITERINGNOISEWATER.BLP to the TextureList.
+13:48:43: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP
+13:48:43: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP to the TextureList.
+13:48:43: Loading texture: Creature\Waterelemental\WATERELEMENTALSKIN.blp
+13:48:44: Loading model: Creature\Wellofsouls\wellofsouls.m2, size: 400832
+
+13:48:44: Loading texture: CREATURE\WELLOFSOULS\WELLOFSOULSFACES.BLP
+13:48:44: Info: Added CREATURE\WELLOFSOULS\WELLOFSOULSFACES.BLP to the TextureList.
+13:48:44: Loading texture: CREATURE\WELLOFSOULS\SEAL.BLP
+13:48:44: Info: Added CREATURE\WELLOFSOULS\SEAL.BLP to the TextureList.
+13:48:44: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:48:44: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:48:44: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+13:48:44: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+13:48:44: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:48:44: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:48:44: Loading texture: SPELLS\GHOST1.BLP
+13:48:44: Info: Added SPELLS\GHOST1.BLP to the TextureList.
+13:48:44: Loading texture: SPELLS\CYANSTARFLASH.BLP
+13:48:44: Info: Added SPELLS\CYANSTARFLASH.BLP to the TextureList.
+13:48:44: Loading texture: SPELLS\SLIMEBLOB.BLP
+13:48:44: Info: Added SPELLS\SLIMEBLOB.BLP to the TextureList.
+13:48:59: Loading model: Creature\Wellofsouls\wellofsoulsgrief.m2, size: 207008
+
+13:48:59: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:48:59: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:48:59: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+13:48:59: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList.
+13:48:59: Loading texture: SPELLS\GHOST1.BLP
+13:48:59: Info: Added SPELLS\GHOST1.BLP to the TextureList.
+13:48:59: Loading texture: SPELLS\CYANSTARFLASH.BLP
+13:48:59: Info: Added SPELLS\CYANSTARFLASH.BLP to the TextureList.
+13:48:59: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:48:59: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:48:59: Loading texture: SPELLS\GREYGLOWBALL64.BLP
+13:48:59: Info: Added SPELLS\GREYGLOWBALL64.BLP to the TextureList.
+13:48:59: [Error] Unknown Emitter: 3
+
+13:49:00: Loading texture: Creature\Wellofsouls\engineofsoulsfaces.blp
+13:49:02: Loading model: Creature\Wellofsouls\wellofsoulspain.m2, size: 463168
+
+13:49:02: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:02: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:49:02: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:49:02: Loading texture: SPELLS\GREYGLOWBALL64.BLP
+13:49:02: Info: Added SPELLS\GREYGLOWBALL64.BLP to the TextureList.
+13:49:02: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:02: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+13:49:02: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList.
+13:49:02: Loading texture: SPELLS\GHOST1.BLP
+13:49:02: Info: Added SPELLS\GHOST1.BLP to the TextureList.
+13:49:02: Loading texture: SPELLS\CYANSTARFLASH.BLP
+13:49:02: Info: Added SPELLS\CYANSTARFLASH.BLP to the TextureList.
+13:49:02: [Error] Unknown Emitter: 3
+
+13:49:02: Loading texture: Creature\Wellofsouls\engineofsoulsrock.blp
+13:49:04: Loading model: Creature\Wellofsouls\wellofsoulsseduction.m2, size: 201424
+
+13:49:04: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:04: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:04: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+13:49:04: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList.
+13:49:04: Loading texture: SPELLS\GREYGLOWBALL64.BLP
+13:49:04: Info: Added SPELLS\GREYGLOWBALL64.BLP to the TextureList.
+13:49:04: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:49:04: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:49:04: Loading texture: SPELLS\GHOST1.BLP
+13:49:04: Info: Added SPELLS\GHOST1.BLP to the TextureList.
+13:49:04: Loading texture: SPELLS\CYANSTARFLASH.BLP
+13:49:04: Info: Added SPELLS\CYANSTARFLASH.BLP to the TextureList.
+13:49:04: [Error] Unknown Emitter: 3
+
+13:49:04: Loading texture: Creature\Wellofsouls\seal.blp
+13:49:05: Loading model: Creature\Wellofsouls\wellofsouls.m2, size: 400832
+
+13:49:05: Loading texture: CREATURE\WELLOFSOULS\WELLOFSOULSFACES.BLP
+13:49:05: Info: Added CREATURE\WELLOFSOULS\WELLOFSOULSFACES.BLP to the TextureList.
+13:49:05: Loading texture: CREATURE\WELLOFSOULS\SEAL.BLP
+13:49:05: Info: Added CREATURE\WELLOFSOULS\SEAL.BLP to the TextureList.
+13:49:05: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:49:05: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:49:05: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+13:49:05: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+13:49:05: Loading texture: SPELLS\ENCHANTMENTS\CLOUDS5.BLP
+13:49:05: Info: Added SPELLS\ENCHANTMENTS\CLOUDS5.BLP to the TextureList.
+13:49:05: Loading texture: SPELLS\GHOST1.BLP
+13:49:05: Info: Added SPELLS\GHOST1.BLP to the TextureList.
+13:49:05: Loading texture: SPELLS\CYANSTARFLASH.BLP
+13:49:05: Info: Added SPELLS\CYANSTARFLASH.BLP to the TextureList.
+13:49:05: Loading texture: SPELLS\SLIMEBLOB.BLP
+13:49:05: Info: Added SPELLS\SLIMEBLOB.BLP to the TextureList.
+13:49:10: Loading model: Creature\Wendigo\wendigo.m2, size: 592210
+
+13:49:10: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:10: Loading texture: Creature\Wendigo\wendigoskinwhite.blp
+13:49:11: Loading model: Creature\Wight\wight.m2, size: 214258
+
+13:49:11: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:12: Loading texture: Creature\Wight\wightskinyellow.blp
+13:49:13: Loading model: Creature\Windserpent\windserpent.m2, size: 330608
+
+13:49:13: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:13: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:13: Loading texture: Creature\Windserpent\WindSerpentSkinRed.blp
+13:49:13: Loading texture: Creature\Windserpent\WindSerpentWingSkinOarnge.blp
+13:49:14: Loading model: Creature\Windserpentoutland\windserpentoutland.m2, size: 347856
+
+13:49:14: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:14: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:15: Loading texture: Creature\Windserpentoutland\WindSerpentSkinOutland.blp
+13:49:15: Loading texture: Creature\Windserpentoutland\WindSerpentWingSkinOutland1.blp
+13:49:16: Loading model: Creature\Wingedhorse\wingedhorse.m2, size: 659216
+
+13:49:16: Loading texture: CREATURE\WINGEDHORSE\WINGEDHORSEWINGS.BLP
+13:49:16: Info: Added CREATURE\WINGEDHORSE\WINGEDHORSEWINGS.BLP to the TextureList.
+13:49:16: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP
+13:49:16: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP to the TextureList.
+13:49:16: Loading texture: CREATURE\WINGEDHORSE\WINGEDHORSE.BLP
+13:49:16: Info: Added CREATURE\WINGEDHORSE\WINGEDHORSE.BLP to the TextureList.
+13:49:16: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP
+13:49:16: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP to the TextureList.
+13:49:16: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP
+13:49:16: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEFROST.BLP to the TextureList.
+13:49:16: Loading texture: PARTICLES\SNOWFLAKE.BLP
+13:49:16: Info: Added PARTICLES\SNOWFLAKE.BLP to the TextureList.
+13:49:16: Loading texture: SPELLS\CLOUDS8X8.BLP
+13:49:16: Info: Added SPELLS\CLOUDS8X8.BLP to the TextureList.
+13:49:19: Loading model: Creature\Wisp\wisp.m2, size: 53410
+
+13:49:19: Loading texture: CREATURE\WISP\DUST3.BLP
+13:49:19: Info: Added CREATURE\WISP\DUST3.BLP to the TextureList.
+13:49:19: Loading texture: SPELLS\SHOCKWAVE10.BLP
+13:49:19: Info: Added SPELLS\SHOCKWAVE10.BLP to the TextureList.
+13:49:19: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:19: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:19: Loading texture: CREATURE\WISP\DUST5.BLP
+13:49:19: Info: Added CREATURE\WISP\DUST5.BLP to the TextureList.
+13:49:19: Loading texture: CREATURE\WISP\CLOUDSINGLEFLAT.BLP
+13:49:19: Info: Added CREATURE\WISP\CLOUDSINGLEFLAT.BLP to the TextureList.
+13:49:19: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP
+13:49:19: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP to the TextureList.
+13:49:19: Loading texture: CREATURE\CRYSTALSATYR\STAR2_32.BLP
+13:49:19: Info: Added CREATURE\CRYSTALSATYR\STAR2_32.BLP to the TextureList.
+13:49:19: Loading texture: Creature\Wisp\dust5.blp
+13:49:21: Loading model: Creature\Wolf\wolf_ghost.m2, size: 437408
+
+13:49:21: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:21: Loading texture: Creature\Wolf\wolfskincoyotealpha.blp
+13:49:25: Loading model: Creature\Wolpertinger\wolpertinger.m2, size: 146594
+
+13:49:25: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:25: Loading texture: Creature\Wolpertinger\wolpertinger.blp
+13:49:26: Loading model: Creature\Woolyrhino\woolyrhino.m2, size: 408816
+
+13:49:26: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:26: Loading texture: Creature\Woolyrhino\woolyrhino_blue.blp
+13:49:28: Loading model: Creature\Worgen\worgen.m2, size: 799344
+
+13:49:28: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:28: Loading texture: Creature\Worgen\WargenSkinBlack.blp
+13:49:31: Loading model: Creature\Worm\worm.m2, size: 288832
+
+13:49:31: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:32: Loading texture: Creature\Worm\WormSkinBlue.blp
+13:49:34: Loading model: Creature\Wrathguard\wrathguard.m2, size: 362576
+
+13:49:34: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:34: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:34: Loading texture: Creature\Wrathguard\wrathguard_body_green.blp
+13:49:35: Loading model: Creature\Wyvern\wyvern.m2, size: 208176
+
+13:49:35: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:35: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:36: Loading texture: Creature\Wyvern\wyvernskin02green.blp
+13:49:38: Loading model: Creature\Wyvernpet\wyvernpet.m2, size: 1006066
+
+13:49:38: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:38: Loading texture: Creature\Wyvernpet\wyvernpet.blp
+13:49:40: Loading model: Creature\Yeti\yeti.m2, size: 948240
+
+13:49:40: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:40: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:40: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\LIGHTS\GLOWORANGE32.BLP
+13:49:40: Info: Added WORLD\GENERIC\PASSIVEDOODADS\LIGHTS\GLOWORANGE32.BLP to the TextureList.
+13:49:41: Loading texture: Creature\Yeti\yetiskin1blue.blp
+13:49:43: Loading model: Creature\Yoggsaron\yoggsaron.m2, size: 439704
+
+13:49:43: Loading texture: CREATURE\YOGGSARON\YOGGSARONBODYSKINTENTACLE.BLP
+13:49:43: Info: Added CREATURE\YOGGSARON\YOGGSARONBODYSKINTENTACLE.BLP to the TextureList.
+13:49:43: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+13:49:43: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+13:49:43: Loading texture: CREATURE\YOGGSARON\YOGGSARONBODYSKIN.BLP
+13:49:43: Info: Added CREATURE\YOGGSARON\YOGGSARONBODYSKIN.BLP to the TextureList.
+13:49:43: Loading texture: CREATURE\YOGGSARON\YOGGSARONBODYSKINMOUTH.BLP
+13:49:43: Info: Added CREATURE\YOGGSARON\YOGGSARONBODYSKINMOUTH.BLP to the TextureList.
+13:49:46: Loading model: Creature\Zebramount\zebramount.m2, size: 255328
+
+13:49:46: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:46: Loading texture: CREATURE\RIDINGHORSE\SADDLE.BLP
+13:49:46: Info: Added CREATURE\RIDINGHORSE\SADDLE.BLP to the TextureList.
+13:49:47: Loading texture: Creature\Zebramount\zebrahorseskin_black.blp
+13:49:48: Loading model: Creature\Zergling\zerglingpet.m2, size: 160354
+
+13:49:48: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:48: Loading texture: Creature\Zergling\ZerglingPetSkin.blp
+13:49:50: Loading model: Creature\Zigguratcrystal\zigguratcrystal.m2, size: 33200
+
+13:49:50: Loading texture: CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTAL.BLP
+13:49:50: Info: Added CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTAL.BLP to the TextureList.
+13:49:50: Loading texture: CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTALENVIRONMENTMAP.BLP
+13:49:50: Info: Added CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTALENVIRONMENTMAP.BLP to the TextureList.
+13:49:50: Loading texture: CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTALGLOW.BLP
+13:49:50: Info: Added CREATURE\ZIGGURATCRYSTAL\ZIGGURATCRYSTALGLOW.BLP to the TextureList.
+13:49:50: Loading texture: Creature\ZigguratCrystal\GlowStar_Blue.blp
+13:49:50: Info: Added Creature\ZigguratCrystal\GlowStar_Blue.blp to the TextureList.
+13:49:56: Loading model: Creature\Zippelin\zippelin.m2, size: 35762
+
+13:49:56: Loading texture: CREATURE\ZIPPELIN\ZIPPILENPURPLE.BLP
+13:49:56: Info: Added CREATURE\ZIPPELIN\ZIPPILENPURPLE.BLP to the TextureList.
+13:49:56: Loading texture: SPELLS\TOONSMOKE16.BLP
+13:49:56: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList.
+13:49:56: Loading texture: SPELLS\STARFLASHYELLOW.BLP
+13:49:56: Info: Added SPELLS\STARFLASHYELLOW.BLP to the TextureList.
+13:49:56: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP
+13:49:56: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP to the TextureList.
+13:49:56: Loading texture: SPELLS\TOONCLOUD64_SOFT.BLP
+13:49:56: Info: Added SPELLS\TOONCLOUD64_SOFT.BLP to the TextureList.
+13:49:59: Loading model: Creature\Zombiefiedvrykul\zombiefiedvrykul.m2, size: 2119840
+
+13:49:59: Info: Added ChangableTexture3.blp to the TextureList via specialTextures.
+13:49:59: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:49:59: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:49:59: Loading texture: SPELLS\T_VFX_HOLE.BLP
+13:49:59: Info: Added SPELLS\T_VFX_HOLE.BLP to the TextureList.
+13:49:59: Loading texture: SPELLS\T_VFX_FIRE01_A64.BLP
+13:49:59: Info: Added SPELLS\T_VFX_FIRE01_A64.BLP to the TextureList.
+13:49:59: Loading texture: SPELLS\T_VFX_FIRE01_A32_BLANK4.BLP
+13:49:59: Info: Added SPELLS\T_VFX_FIRE01_A32_BLANK4.BLP to the TextureList.
+13:49:59: Loading texture: SPELLS\T_VFX_DIRT64.BLP
+13:49:59: Info: Added SPELLS\T_VFX_DIRT64.BLP to the TextureList.
+13:49:59: Loading texture: SPELLS\T_VFX_SWARM.BLP
+13:49:59: Info: Added SPELLS\T_VFX_SWARM.BLP to the TextureList.
+13:50:00: Loading texture: Creature\Zombiefiedvrykul\zombiefiedvrykul2blue.blp
+13:50:02: Loading model: Creature\Zombiefiedvrykulcaster\zombiefiedvrykulcaster.m2, size: 1936064
+
+13:50:02: Info: Added ChangableTexture3.blp to the TextureList via specialTextures.
+13:50:02: Loading texture: SPELLS\T_VFX_HOLE.BLP
+13:50:02: Info: Added SPELLS\T_VFX_HOLE.BLP to the TextureList.
+13:50:02: Loading texture: SPELLS\T_VFX_FIRE01_A64.BLP
+13:50:02: Info: Added SPELLS\T_VFX_FIRE01_A64.BLP to the TextureList.
+13:50:02: Loading texture: SPELLS\T_VFX_FIRE01_A32_BLANK4.BLP
+13:50:02: Info: Added SPELLS\T_VFX_FIRE01_A32_BLANK4.BLP to the TextureList.
+13:50:02: Loading texture: SPELLS\T_VFX_DIRT64.BLP
+13:50:02: Info: Added SPELLS\T_VFX_DIRT64.BLP to the TextureList.
+13:50:02: Loading texture: SPELLS\T_VFX_SWARM.BLP
+13:50:02: Info: Added SPELLS\T_VFX_SWARM.BLP to the TextureList.
+13:50:02: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:02: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:50:02: Loading texture: CREATURE\ZOMBIEFIEDVRYKULCASTER\ZOMBIEFIEDVRYKULGLOW.BLP
+13:50:02: Info: Added CREATURE\ZOMBIEFIEDVRYKULCASTER\ZOMBIEFIEDVRYKULGLOW.BLP to the TextureList.
+13:50:02: Loading texture: CREATURE\ZOMBIEFIEDVRYKUL\SMOKE03_FLIP.BLP
+13:50:02: Info: Added CREATURE\ZOMBIEFIEDVRYKUL\SMOKE03_FLIP.BLP to the TextureList.
+13:50:02: Loading texture: Creature\Zombiefiedvrykulcaster\zombiefiedvrykulcaster2blue.blp
+13:50:05: Loading model: Creature\Zuldrakgolem\zuldrakgolem.m2, size: 254048
+
+13:50:05: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:05: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:50:05: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:50:05: Loading texture: CREATURE\EREDAR\PRIESTHELM02.BLP
+13:50:05: Info: Added CREATURE\EREDAR\PRIESTHELM02.BLP to the TextureList.
+13:50:05: Loading texture: Creature\Zuldrakgolem\ZuldrakGolemBlack.blp
+13:50:11: Loading model: Creature\Alliancebomb\alliancebomb.m2, size: 22368
+
+13:50:11: Loading texture: DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_DECK.BLP
+13:50:11: Info: Added DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_DECK.BLP to the TextureList.
+13:50:11: Loading texture: DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_TRIM_BLUE.BLP
+13:50:11: Info: Added DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_TRIM_BLUE.BLP to the TextureList.
+13:50:12: Loading texture: DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_ENGINEPANELS.BLP
+13:50:12: Info: Added DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_ENGINEPANELS.BLP to the TextureList.
+13:50:12: Loading texture: DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_PROPELLERENGINE.BLP
+13:50:12: Info: Added DUNGEONS\TEXTURES\ALLIANCEGUNSHIP\AGS_PROPELLERENGINE.BLP to the TextureList.
+13:50:13: Loading model: Creature\Alliancebrasscannon\alliancebrasscannon.m2, size: 49008
+
+13:50:13: Loading texture: WORLD\EXPANSION02\DOODADS\ICECROWN\ALLIANCE_GUNSHIP\AGS_BRASSCANNON.BLP
+13:50:13: Info: Added WORLD\EXPANSION02\DOODADS\ICECROWN\ALLIANCE_GUNSHIP\AGS_BRASSCANNON.BLP to the TextureList.
+13:50:13: Loading texture: WORLD\EXPANSION02\DOODADS\ICECROWN\ALLIANCE_GUNSHIP\AGS_BRASSCANNON_ENV.BLP
+13:50:13: Info: Added WORLD\EXPANSION02\DOODADS\ICECROWN\ALLIANCE_GUNSHIP\AGS_BRASSCANNON_ENV.BLP to the TextureList.
+13:50:14: Loading model: Creature\Alliancerider\alliancerider.m2, size: 337664
+
+13:50:14: Loading texture: CREATURE\GRYPHON\GRYPHON_SKIN01.BLP
+13:50:14: Info: Added CREATURE\GRYPHON\GRYPHON_SKIN01.BLP to the TextureList.
+13:50:14: Loading texture: CREATURE\ALLIANCERIDER\WILDHAMMERHEAVY.BLP
+13:50:14: Info: Added CREATURE\ALLIANCERIDER\WILDHAMMERHEAVY.BLP to the TextureList.
+13:50:14: Loading texture: CREATURE\ALLIANCERIDER\DWARFMALEHAIRSKIN.BLP
+13:50:14: Info: Added CREATURE\ALLIANCERIDER\DWARFMALEHAIRSKIN.BLP to the TextureList.
+13:50:14: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\SHOULDER_LEATHER_HORDE_B_03RED.BLP
+13:50:14: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\SHOULDER_LEATHER_HORDE_B_03RED.BLP to the TextureList.
+13:50:14: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\HAMMER_2H_PVPALLIANCE_A_01.BLP
+13:50:14: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\HAMMER_2H_PVPALLIANCE_A_01.BLP to the TextureList.
+13:50:14: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+13:50:14: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList.
+13:50:14: Loading texture: CREATURE\GRYPHON\GRYPHON_SKIN02.BLP
+13:50:14: Info: Added CREATURE\GRYPHON\GRYPHON_SKIN02.BLP to the TextureList.
+13:50:15: Loading model: Creature\Ancientofarcane\ancientofarcane.m2, size: 207856
+
+13:50:15: Loading texture: CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANESKIN.BLP
+13:50:15: Info: Added CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANESKIN.BLP to the TextureList.
+13:50:15: Loading texture: CREATURE\FUNGALGIANT\FUNGALGIANTPURPLESPORE.BLP
+13:50:15: Info: Added CREATURE\FUNGALGIANT\FUNGALGIANTPURPLESPORE.BLP to the TextureList.
+13:50:15: Loading texture: CHARACTER\NIGHTELF\MALE\NIGHTELFMALEEYEGLOW.BLP
+13:50:15: Info: Added CHARACTER\NIGHTELF\MALE\NIGHTELFMALEEYEGLOW.BLP to the TextureList.
+13:50:15: Loading texture: CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANECRYSTALTRANS.BLP
+13:50:15: Info: Added CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANECRYSTALTRANS.BLP to the TextureList.
+13:50:15: Loading texture: CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANECRYSTAL.BLP
+13:50:15: Info: Added CREATURE\ANCIENTOFARCANE\ANCIENTOFARCANECRYSTAL.BLP to the TextureList.
+13:50:15: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_SCROLL_ALPHA.BLP
+13:50:15: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_SCROLL_ALPHA.BLP to the TextureList.
+13:50:15: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_FILL.BLP
+13:50:15: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_FILL.BLP to the TextureList.
+13:50:15: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_SCROLL2.BLP
+13:50:15: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\DRAENEI\TEMPESTKEEP\ENERGY_SCROLL2.BLP to the TextureList.
+13:50:15: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIRECITADEL\DEMONWING\PASSIVEDOODADS\MACHINE\SMOKEWISPY_ROUNDSPONGE.BLP
+13:50:15: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIRECITADEL\DEMONWING\PASSIVEDOODADS\MACHINE\SMOKEWISPY_ROUNDSPONGE.BLP to the TextureList.
+13:50:18: Loading model: Creature\Ancientoflore\ancientoflore.m2, size: 693202
+
+13:50:18: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:19: Loading texture: Creature\Ancientoflore\AncientofLoreSkin.blp
+13:50:20: Loading model: Creature\Ancientofwar\ancientofwar.m2, size: 502626
+
+13:50:20: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:21: Loading texture: Creature\Ancientofwar\AncientofWarSkin.blp
+13:50:22: Loading model: Creature\Ancientprotector\ancientprotector.m2, size: 799330
+
+13:50:22: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:22: Loading texture: Creature\AncientProtector\ColdBreath32.blp
+13:50:22: Info: Added Creature\AncientProtector\ColdBreath32.blp to the TextureList.
+13:50:23: Loading texture: Creature\Ancientprotector\AncientProtectorPurple.blp
+13:50:24: Loading model: Creature\Ancientprotectorcrystalsong\ancientprotectorcrystalsong.m2, size: 273008
+
+13:50:24: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:24: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:50:24: Loading texture: CREATURE\ANCIENTPROTECTOR\COLDBREATH32.BLP
+13:50:24: Info: Added CREATURE\ANCIENTPROTECTOR\COLDBREATH32.BLP to the TextureList.
+13:50:24: Loading texture: CREATURE\ANCIENTPROTECTORCRYSTALSONG\LEAFCRYSTALSONGA.BLP
+13:50:24: Info: Added CREATURE\ANCIENTPROTECTORCRYSTALSONG\LEAFCRYSTALSONGA.BLP to the TextureList.
+13:50:24: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\GLOW_FROSTBLUE.BLP
+13:50:24: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\GLOW_FROSTBLUE.BLP to the TextureList.
+13:50:24: Loading texture: ITEM\OBJECTCOMPONENTS\AMMO\BLUE_GLOW2.BLP
+13:50:24: Info: Added ITEM\OBJECTCOMPONENTS\AMMO\BLUE_GLOW2.BLP to the TextureList.
+13:50:24: Loading texture: CREATURE\WISP\DUST3.BLP
+13:50:24: Info: Added CREATURE\WISP\DUST3.BLP to the TextureList.
+13:50:24: Loading texture: CREATURE\WISP\DUST5.BLP
+13:50:24: Info: Added CREATURE\WISP\DUST5.BLP to the TextureList.
+13:50:24: Loading texture: Creature\Ancientprotectorcrystalsong\TreantCrystalSong2.blp
+13:50:24: Loading texture: Creature\Ancientprotectorcrystalsong\TreantCrystalSongHand2.blp
+13:50:26: Loading model: Creature\Anduin\anduin.m2, size: 1229776
+
+13:50:26: Loading texture: Creature\Anduin\AnduinSkin.blp
+13:50:26: Info: Added Creature\Anduin\AnduinSkin.blp to the TextureList.
+13:50:26: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:50:26: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:50:26: Loading texture: CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP
+13:50:26: Info: Added CHARACTER\BLOODELF\FEMALE\DEATHKNIGHTEYEGLOW.BLP to the TextureList.
+13:50:30: Loading model: Creature\Anubisath\anubisath.m2, size: 535298
+
+13:50:30: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:50:30: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:30: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+13:50:30: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+13:50:30: Info: Added ChangableTexture3.blp to the TextureList via specialTextures.
+13:50:31: Loading texture: Creature\Anubisath\anubisathskin01.blp
+13:50:33: Loading model: Creature\Arakkoa\arakkoa.m2, size: 1321568
+
+13:50:33: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:33: Loading texture: Creature\Arakkoa\arakkoa.blp
+13:50:35: Loading model: Creature\Arcanegolem\arcanegolem.m2, size: 131106
+
+13:50:35: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:35: Loading texture: WORLD\GOOBER\SMOKE_1.BLP
+13:50:35: Info: Added WORLD\GOOBER\SMOKE_1.BLP to the TextureList.
+13:50:35: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP
+13:50:35: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP to the TextureList.
+13:50:35: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP
+13:50:35: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP to the TextureList.
+13:50:36: Loading texture: Creature\Arcanegolem\AG_Model_Mesh_Purple.blp
+13:50:37: Loading model: Creature\Arcanetitan\arcanetitan.m2, size: 289728
+
+13:50:37: Loading texture: CREATURE\ARCANETITAN\ARCANETITAN.BLP
+13:50:37: Info: Added CREATURE\ARCANETITAN\ARCANETITAN.BLP to the TextureList.
+13:50:37: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:50:37: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:50:37: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:37: Loading texture: CREATURE\GNOMESPIDERTANK\GNOMESPIDERTANKREFLECT.BLP
+13:50:37: Info: Added CREATURE\GNOMESPIDERTANK\GNOMESPIDERTANKREFLECT.BLP to the TextureList.
+13:50:37: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+13:50:37: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+13:50:37: Loading texture: CREATURE\HAKKAR\HEARTTEXTURE.BLP
+13:50:37: Info: Added CREATURE\HAKKAR\HEARTTEXTURE.BLP to the TextureList.
+13:50:37: Loading texture: CREATURE\NAARU\LIGHTNINGBOLTWHITE02.BLP
+13:50:37: Info: Added CREATURE\NAARU\LIGHTNINGBOLTWHITE02.BLP to the TextureList.
+13:50:37: Loading texture: CREATURE\NAARU\LIGHTNINGBOLTWHITE03.BLP
+13:50:37: Info: Added CREATURE\NAARU\LIGHTNINGBOLTWHITE03.BLP to the TextureList.
+13:50:37: Loading texture: CREATURE\ARCANETITAN\ARCANETITANEYEGLOW.BLP
+13:50:37: Info: Added CREATURE\ARCANETITAN\ARCANETITANEYEGLOW.BLP to the TextureList.
+13:50:37: Loading texture: CREATURE\GNOMEROCKETCAR\GNOMEPOUNDERPILOTSKIN_YELLOW_01.BLP
+13:50:37: Info: Added CREATURE\GNOMEROCKETCAR\GNOMEPOUNDERPILOTSKIN_YELLOW_01.BLP to the TextureList.
+13:50:37: Loading texture: Creature\Arcanetitan\arcanetitaneyeglow.blp
+13:50:38: Loading model: Creature\Arcanevoidwraith\arcanevoidwraith.m2, size: 428912
+
+13:50:38: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:38: Loading texture: CREATURE\MANAWURM\MANAWURMSKINGREEN.BLP
+13:50:38: Info: Added CREATURE\MANAWURM\MANAWURMSKINGREEN.BLP to the TextureList.
+13:50:38: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\PRIESTHELM01.BLP
+13:50:38: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\PRIESTHELM01.BLP to the TextureList.
+13:50:38: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:38: Loading texture: CREATURE\FIREELEMENTAL\GLOWBALL.BLP
+13:50:38: Info: Added CREATURE\FIREELEMENTAL\GLOWBALL.BLP to the TextureList.
+13:50:38: Loading texture: SPELLS\GENERICGLOW64.BLP
+13:50:38: Info: Added SPELLS\GENERICGLOW64.BLP to the TextureList.
+13:50:38: Loading texture: SPELLS\CLOUDS8X8.BLP
+13:50:38: Info: Added SPELLS\CLOUDS8X8.BLP to the TextureList.
+13:50:38: Loading texture: WORLD\GOOBER\SMOKE_1.BLP
+13:50:38: Info: Added WORLD\GOOBER\SMOKE_1.BLP to the TextureList.
+13:50:38: Loading texture: CREATURE\VOIDWALKER\STARFIELD02.BLP
+13:50:38: Info: Added CREATURE\VOIDWALKER\STARFIELD02.BLP to the TextureList.
+13:50:38: Loading texture: WORLD\EXPANSION02\DOODADS\HOWLINGFJORD\FIREFX\T_VFX_FIRE_ANIM02_128_FULL_DESAT.BLP
+13:50:38: Info: Added WORLD\EXPANSION02\DOODADS\HOWLINGFJORD\FIREFX\T_VFX_FIRE_ANIM02_128_FULL_DESAT.BLP to the TextureList.
+13:50:38: Loading texture: SPELLS\T_VFX_DOOR_BLACK.BLP
+13:50:38: Info: Added SPELLS\T_VFX_DOOR_BLACK.BLP to the TextureList.
+13:50:39: Loading texture: Creature\Arcanevoidwraith\ArcaneVoidWraithPink.blp
+13:50:40: Loading model: Creature\Arcticcondor\arcticcondor.m2, size: 356720
+
+13:50:40: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:40: Loading texture: Creature\Arcticcondor\ArcticCondorWhite.blp
+13:50:43: Loading model: Creature\Arthas\arthas.m2, size: 953552
+
+13:50:43: Loading texture: CREATURE\ARTHAS\ARTHAS_02.BLP
+13:50:43: Info: Added CREATURE\ARTHAS\ARTHAS_02.BLP to the TextureList.
+13:50:43: Loading texture: CREATURE\ARTHAS\ARTHAS_01.BLP
+13:50:43: Info: Added CREATURE\ARTHAS\ARTHAS_01.BLP to the TextureList.
+13:50:46: Loading model: Creature\Arthaslichking\arthaslichking.m2, size: 1053184
+
+13:50:46: Loading texture: CREATURE\ARTHASLICHKING\ARTHASLICHKING_01.BLP
+13:50:46: Info: Added CREATURE\ARTHASLICHKING\ARTHASLICHKING_01.BLP to the TextureList.
+13:50:46: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+13:50:46: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList.
+13:50:46: Loading texture: SPELLS\TEXTURES\BEAM_SMOKEGREY.BLP
+13:50:46: Info: Added SPELLS\TEXTURES\BEAM_SMOKEGREY.BLP to the TextureList.
+13:50:46: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\WATERFALLS\WATERFOAM_RAPID2.BLP
+13:50:46: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\WATERFALLS\WATERFOAM_RAPID2.BLP to the TextureList.
+13:50:46: Loading texture: CREATURE\ARTHASLICHKING\NEXUS_FIREBEAM_FAINT_SQUARE_BLU.BLP
+13:50:46: Info: Added CREATURE\ARTHASLICHKING\NEXUS_FIREBEAM_FAINT_SQUARE_BLU.BLP to the TextureList.
+13:50:47: Loading texture: CREATURE\ARTHASLICHKING\ARTHASLICHKING_02.BLP
+13:50:47: Info: Added CREATURE\ARTHASLICHKING\ARTHASLICHKING_02.BLP to the TextureList.
+13:50:47: Loading texture: CREATURE\ARTHASLICHKING\SWORD_2H_FROSTMOURNE_ARTHAS2.BLP
+13:50:47: Info: Added CREATURE\ARTHASLICHKING\SWORD_2H_FROSTMOURNE_ARTHAS2.BLP to the TextureList.
+13:50:47: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT3.BLP
+13:50:47: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT3.BLP to the TextureList.
+13:50:47: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP
+13:50:47: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP to the TextureList.
+13:50:47: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\BONFIRE\T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.BLP
+13:50:47: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\BONFIRE\T_VFX_FIRE_ANIM02_128_FULL_DESAT_BLUE.BLP to the TextureList.
+13:50:47: Loading texture: SPELLS\T_VFX_GLOW01_64.BLP
+13:50:47: Info: Added SPELLS\T_VFX_GLOW01_64.BLP to the TextureList.
+13:50:47: Loading texture: SPELLS\T_VFX_FIRE_ANIM02_128_DESAT.BLP
+13:50:47: Info: Added SPELLS\T_VFX_FIRE_ANIM02_128_DESAT.BLP to the TextureList.
+13:50:49: Loading model: Creature\Arthasundead\arthasundead.m2, size: 7253817
+
+13:50:49: Error:		Invalid model nameOfs=1126064/304!  May be corrupted.
+13:50:50: Loading texture: CREATURE\ARTHASUNDEAD\ARTHASUNDEAD_01.BLP
+13:50:50: Info: Added CREATURE\ARTHASUNDEAD\ARTHASUNDEAD_01.BLP to the TextureList.
+13:50:50: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+13:50:50: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList.
+13:50:50: Loading texture: CREATURE\ARTHASUNDEAD\ARTHASUNDEAD_02.BLP
+13:50:50: Info: Added CREATURE\ARTHASUNDEAD\ARTHASUNDEAD_02.BLP to the TextureList.
+13:50:50: Critical Error: Model AttachLookup 56 over 50
+13:50:51: Error: keyBone number [74] over [35]
+13:50:55: Loading model: Creature\Babybeholder\babybeholder.m2, size: 604610
+
+13:50:55: Loading texture: CREATURE\BABYBEHOLDER\BABYBEHOLDER.BLP
+13:50:55: Info: Added CREATURE\BABYBEHOLDER\BABYBEHOLDER.BLP to the TextureList.
+13:50:55: Loading texture: CREATURE\BEHOLDER\SPITTLE.BLP
+13:50:55: Info: Added CREATURE\BEHOLDER\SPITTLE.BLP to the TextureList.
+13:50:55: Loading texture: CREATURE\EREDAR\PRIESTHELM02.BLP
+13:50:55: Info: Added CREATURE\EREDAR\PRIESTHELM02.BLP to the TextureList.
+13:50:55: Loading texture: CREATURE\BABYBEHOLDER\BABYBEHOLDER2.BLP
+13:50:55: Info: Added CREATURE\BABYBEHOLDER\BABYBEHOLDER2.BLP to the TextureList.
+13:50:56: Loading model: Creature\Babycrocodile\babycrocodile.m2, size: 598082
+
+13:50:56: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:57: Loading texture: Creature\Babycrocodile\babycrocodilegreen.blp
+13:50:58: Loading model: Creature\Babyelekk\babyelekk.m2, size: 385384
+
+13:50:58: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:50:58: Loading texture: Creature\BabyElekk\OrbReflect02.blp
+13:50:58: Info: Added Creature\BabyElekk\OrbReflect02.blp to the TextureList.
+13:50:58: Loading texture: Creature\Babyelekk\BabyElekkBlue.blp
+13:50:59: Loading model: Creature\Babyhawkstrider\babyhawkstrider.m2, size: 165922
+
+13:50:59: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:00: Loading texture: Creature\Babyhawkstrider\babyhawkstriderpurple.blp
+13:51:01: Loading model: Creature\Babylich\babylich.m2, size: 562522
+
+13:51:01: Loading texture: CREATURE\BABYLICH\BABYKELTHUZAD.BLP
+13:51:01: Info: Added CREATURE\BABYLICH\BABYKELTHUZAD.BLP to the TextureList.
+13:51:01: Loading texture: CREATURE\ELEMENTALEARTH\WATERMIST.BLP
+13:51:01: Info: Added CREATURE\ELEMENTALEARTH\WATERMIST.BLP to the TextureList.
+13:51:01: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP
+13:51:01: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP to the TextureList.
+13:51:01: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP
+13:51:01: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP to the TextureList.
+13:51:01: Loading texture: SPELLS\SHOCKWAVEWATER1.BLP
+13:51:01: Info: Added SPELLS\SHOCKWAVEWATER1.BLP to the TextureList.
+13:51:02: Loading model: Creature\Band\band_drumset.m2, size: 118960
+
+13:51:03: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\SHIELD_WHEEL_B_01.BLP
+13:51:03: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\SHIELD_WHEEL_B_01.BLP to the TextureList.
+13:51:03: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\SHIELD_HORDE_A_03.BLP
+13:51:03: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\SHIELD_HORDE_A_03.BLP to the TextureList.
+13:51:03: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT3.BLP
+13:51:03: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT3.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\TAURENDRUMS01.BLP
+13:51:03: Info: Added CREATURE\BAND\TAURENDRUMS01.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\BAND_DRUMLOGO.BLP
+13:51:03: Info: Added CREATURE\BAND\BAND_DRUMLOGO.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\BAND_BROWNSKULL01.BLP
+13:51:03: Info: Added CREATURE\BAND\BAND_BROWNSKULL01.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\TAUREN_WOOD01.BLP
+13:51:03: Info: Added CREATURE\BAND\TAUREN_WOOD01.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\TAURENSYMBOLS01.BLP
+13:51:03: Info: Added CREATURE\BAND\TAURENSYMBOLS01.BLP to the TextureList.
+13:51:03: Loading texture: CREATURE\BAND\ENERGYWEDGE.BLP
+13:51:03: Info: Added CREATURE\BAND\ENERGYWEDGE.BLP to the TextureList.
+13:51:03: Loading texture: WORLD\EXPANSION01\DOODADS\ZULAMAN\GONG\FT_GONGBASE01.BLP
+13:51:03: Info: Added WORLD\EXPANSION01\DOODADS\ZULAMAN\GONG\FT_GONGBASE01.BLP to the TextureList.
+13:51:03: Loading texture: SPELLS\DUST1_A.BLP
+13:51:03: Info: Added SPELLS\DUST1_A.BLP to the TextureList.
+13:51:03: Info: Added CREATURE\BAND\TAURENSYMBOLS01.BLP to the TextureList.
+13:51:05: Loading model: Creature\Banshee\banshee.m2, size: 457506
+
+13:51:05: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:05: Loading texture: Creature\Banshee\WaterfallMist.blp
+13:51:05: Info: Added Creature\Banshee\WaterfallMist.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\BitchFace5.blp
+13:51:05: Info: Added Creature\Banshee\BitchFace5.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\Ember.blp
+13:51:05: Info: Added Creature\Banshee\Ember.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\grad6.blp
+13:51:05: Info: Added Creature\Banshee\grad6.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\lensflare1A.blp
+13:51:05: Info: Added Creature\Banshee\lensflare1A.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\CyanStarFlash.blp
+13:51:05: Info: Added Creature\Banshee\CyanStarFlash.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\star32.blp
+13:51:05: Info: Added Creature\Banshee\star32.blp to the TextureList.
+13:51:05: Loading texture: Creature\Banshee\Black128_Shadow_Spook1.blp
+13:51:05: Info: Added Creature\Banshee\Black128_Shadow_Spook1.blp to the TextureList.
+13:51:06: Loading texture: Creature\Banshee\BansheeSkinGreen.blp
+13:51:08: Loading model: Creature\Basilisk\basilisk.m2, size: 234944
+
+13:51:08: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:08: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:08: Loading texture: CREATURE\BASILISK\BASILISKSTUN.BLP
+13:51:08: Info: Added CREATURE\BASILISK\BASILISKSTUN.BLP to the TextureList.
+13:51:08: Loading texture: Creature\Basilisk\basiliskcrystalskin.blp
+13:51:11: Loading model: Creature\Basiliskoutland\basilisk_outland.m2, size: 245568
+
+13:51:11: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:11: Loading texture: CREATURE\BASILISK\BASILISKSTUN.BLP
+13:51:11: Info: Added CREATURE\BASILISK\BASILISKSTUN.BLP to the TextureList.
+13:51:11: Loading texture: Creature\Basiliskoutland\basilisk_outlandviolet.blp
+13:51:14: Loading model: Creature\Beargod\beargod.m2, size: 414850
+
+13:51:14: Loading texture: CREATURE\BEARGOD\BEARGOD_01.BLP
+13:51:14: Info: Added CREATURE\BEARGOD\BEARGOD_01.BLP to the TextureList.
+13:51:14: Loading texture: WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP
+13:51:14: Info: Added WORLD\EXPANSION02\DOODADS\DALARAN\GLOWBALL.BLP to the TextureList.
+13:51:14: Loading texture: CREATURE\BEARGOD\BEARGOD_02.BLP
+13:51:14: Info: Added CREATURE\BEARGOD\BEARGOD_02.BLP to the TextureList.
+13:51:15: Loading model: Creature\Bearmount\bearmount.m2, size: 456592
+
+13:51:15: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:15: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:15: Loading texture: CREATURE\BEARMOUNT\FLAME4.BLP
+13:51:15: Info: Added CREATURE\BEARMOUNT\FLAME4.BLP to the TextureList.
+13:51:15: Loading texture: Creature\Bearmount\bearmountarmorgreen.blp
+13:51:18: Loading model: Creature\Bearmountalt\bearmountalt.m2, size: 360592
+
+13:51:18: Loading texture: CREATURE\BEARMOUNTALT\BEARMOUNTTCGSKINBLACK.BLP
+13:51:18: Info: Added CREATURE\BEARMOUNTALT\BEARMOUNTTCGSKINBLACK.BLP to the TextureList.
+13:51:18: Loading texture: CREATURE\BEARMOUNTALT\BEARMOUNTALTSADDLEASH.BLP
+13:51:18: Info: Added CREATURE\BEARMOUNTALT\BEARMOUNTALTSADDLEASH.BLP to the TextureList.
+13:51:18: Loading texture: CREATURE\BEARMOUNTALT\BEARMOUNTALTSKINASH.BLP
+13:51:18: Info: Added CREATURE\BEARMOUNTALT\BEARMOUNTALTSKINASH.BLP to the TextureList.
+13:51:20: Loading model: Creature\Beholder\beholder.m2, size: 788288
+
+13:51:20: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:20: Loading texture: CREATURE\BEHOLDER\SPITTLE.BLP
+13:51:20: Info: Added CREATURE\BEHOLDER\SPITTLE.BLP to the TextureList.
+13:51:20: Loading texture: CREATURE\EREDAR\PRIESTHELM02.BLP
+13:51:20: Info: Added CREATURE\EREDAR\PRIESTHELM02.BLP to the TextureList.
+13:51:21: Loading texture: Creature\Beholder\BeholderBeige.blp
+13:51:22: Loading model: Creature\Blackhole\blackhole.m2, size: 46432
+
+13:51:22: Loading texture: SPELLS\TEXTURES\BEAM_SMOKEGREY.BLP
+13:51:22: Info: Added SPELLS\TEXTURES\BEAM_SMOKEGREY.BLP to the TextureList.
+13:51:22: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\WATERFALLS\WATERFOAM_RAPID2.BLP
+13:51:22: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\WATERFALLS\WATERFOAM_RAPID2.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_RING_BOW_A.BLP
+13:51:22: Info: Added SPELLS\T_VFX_RING_BOW_A.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_RING_BOW_BLURED_ACONTRAST.BLP
+13:51:22: Info: Added SPELLS\T_VFX_RING_BOW_BLURED_ACONTRAST.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_GLOW01_64.BLP
+13:51:22: Info: Added SPELLS\T_VFX_GLOW01_64.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_FLARE05_DARK.BLP
+13:51:22: Info: Added SPELLS\T_VFX_FLARE05_DARK.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_PSY_RED.BLP
+13:51:22: Info: Added SPELLS\T_VFX_PSY_RED.BLP to the TextureList.
+13:51:22: Loading texture: SPELLS\T_VFX_WIND.BLP
+13:51:22: Info: Added SPELLS\T_VFX_WIND.BLP to the TextureList.
+13:51:25: Loading model: Creature\Bloodelffemalekid\bloodelffemalekid.m2, size: 121616
+
+13:51:25: Loading texture: CREATURE\BLOODELFFEMALEKID\BLOODELFFEMALEKID_01.BLP
+13:51:25: Info: Added CREATURE\BLOODELFFEMALEKID\BLOODELFFEMALEKID_01.BLP to the TextureList.
+13:51:26: Loading model: Creature\Bloodelfguard\bloodelfmale_guard.m2, size: 985184
+
+13:51:26: Loading texture: CREATURE\BLOODELFGUARD\LEATHER_BLOOD_C_01GUARD.BLP
+13:51:26: Info: Added CREATURE\BLOODELFGUARD\LEATHER_BLOOD_C_01GUARD.BLP to the TextureList.
+13:51:26: Loading texture: CREATURE\BLOODELFGUARD\BLOODELFMALEHAIR01GUARD.BLP
+13:51:26: Info: Added CREATURE\BLOODELFGUARD\BLOODELFMALEHAIR01GUARD.BLP to the TextureList.
+13:51:26: Loading texture: CHARACTER\BLOODELF\MALE\BLOODELFFEMALEEYEGLOWGREEN.BLP
+13:51:26: Info: Added CHARACTER\BLOODELF\MALE\BLOODELFFEMALEEYEGLOWGREEN.BLP to the TextureList.
+13:51:27: Loading texture: CREATURE\BLOODELFGUARD\SHIELD_BLOOD_C_01GUARD.BLP
+13:51:27: Info: Added CREATURE\BLOODELFGUARD\SHIELD_BLOOD_C_01GUARD.BLP to the TextureList.
+13:51:27: Loading texture: CREATURE\BLOODELFGUARD\LEATHER_BLOOD_C_03GUARD.BLP
+13:51:27: Info: Added CREATURE\BLOODELFGUARD\LEATHER_BLOOD_C_03GUARD.BLP to the TextureList.
+13:51:27: Loading texture: CREATURE\BLOODELFGUARD\GLAVE_1H_BLOOD_C_01GUARD.BLP
+13:51:27: Info: Added CREATURE\BLOODELFGUARD\GLAVE_1H_BLOOD_C_01GUARD.BLP to the TextureList.
+13:51:30: Loading model: Creature\Bloodelfmalekid\bloodelfmalekid.m2, size: 144720
+
+13:51:30: Loading texture: CREATURE\BLOODELFMALEKID\BLOODELFMALEKID_01.BLP
+13:51:30: Info: Added CREATURE\BLOODELFMALEKID\BLOODELFMALEKID_01.BLP to the TextureList.
+13:51:31: Loading model: Creature\Bloodqueen\bloodqueen.m2, size: 2592400
+
+13:51:31: Loading texture: CREATURE\BLOODQUEEN\BLOODQUEEN01.BLP
+13:51:31: Info: Added CREATURE\BLOODQUEEN\BLOODQUEEN01.BLP to the TextureList.
+13:51:31: Loading texture: ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP
+13:51:31: Info: Added ITEM\OBJECTCOMPONENTS\SHIELD\ARMORREFLECT4.BLP to the TextureList.
+13:51:31: Loading texture: CREATURE\BLOODQUEEN\BLOODQUEEN01_GLOW.BLP
+13:51:31: Info: Added CREATURE\BLOODQUEEN\BLOODQUEEN01_GLOW.BLP to the TextureList.
+13:51:31: Loading texture: CREATURE\BLOODQUEEN\BLOODQUEEN02.BLP
+13:51:31: Info: Added CREATURE\BLOODQUEEN\BLOODQUEEN02.BLP to the TextureList.
+13:51:31: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\FURNITURE\CONTAINERS\SMOKE02.BLP
+13:51:31: Info: Added WORLD\GENERIC\PASSIVEDOODADS\FURNITURE\CONTAINERS\SMOKE02.BLP to the TextureList.
+13:51:31: Loading texture: WORLD\EXPANSION01\DOODADS\SHATTRATH\PASSIVEDOODADS\LIGHTING\SMOKEWISPY_ROUNDSPONGE_EDIT.BLP
+13:51:31: Info: Added WORLD\EXPANSION01\DOODADS\SHATTRATH\PASSIVEDOODADS\LIGHTING\SMOKEWISPY_ROUNDSPONGE_EDIT.BLP to the TextureList.
+13:51:35: Loading model: Creature\Boar\boar.m2, size: 206688
+
+13:51:35: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:36: Loading texture: Creature\Boar\BoarSkinBrown.blp
+13:51:37: Loading model: Creature\Bodyofkathune\bodyofkathune.m2, size: 693456
+
+13:51:37: Loading texture: CREATURE\BODYOFKATHUNE\CLAWOFKATHUNEPURPLE.BLP
+13:51:37: Info: Added CREATURE\BODYOFKATHUNE\CLAWOFKATHUNEPURPLE.BLP to the TextureList.
+13:51:37: Loading texture: CREATURE\BODYOFKATHUNE\EYEOFKATHUNEPURPLE.BLP
+13:51:37: Info: Added CREATURE\BODYOFKATHUNE\EYEOFKATHUNEPURPLE.BLP to the TextureList.
+13:51:37: Loading texture: CREATURE\BODYOFKATHUNE\EYEREFLECT.BLP
+13:51:37: Info: Added CREATURE\BODYOFKATHUNE\EYEREFLECT.BLP to the TextureList.
+13:51:38: Loading model: Creature\Bogbeast\bogbeast.m2, size: 343586
+
+13:51:38: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:38: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:39: Loading texture: Creature\Bogbeast\bogbeastskingreenalpha.blp
+13:51:40: Loading model: Creature\Bonegolem\bonegolem.m2, size: 248426
+
+13:51:40: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:40: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:40: Error: Could not load the texture 'creature/dragon/dragonskin2azuregoz.blp'
+13:51:40: Info: Added creature/dragon/dragonskin2azuregoz.blp to the TextureList.
+13:51:40: Loading texture: Creature\Bonegolem\bonegolemskullbag.blp
+13:51:42: Loading model: Creature\Boneguard\boneguard.m2, size: 1614480
+
+13:51:42: Loading texture: CREATURE\BONEGUARD\BONEGUARD.BLP
+13:51:42: Info: Added CREATURE\BONEGUARD\BONEGUARD.BLP to the TextureList.
+13:51:42: Loading texture: CREATURE\BONEGUARD\BONEGUARDGLOW.BLP
+13:51:42: Info: Added CREATURE\BONEGUARD\BONEGUARDGLOW.BLP to the TextureList.
+13:51:42: Loading texture: SPELLS\T_VFX_FIRE_ANIM02_128_DESAT.BLP
+13:51:42: Info: Added SPELLS\T_VFX_FIRE_ANIM02_128_DESAT.BLP to the TextureList.
+13:51:42: Loading texture: SPELLS\T_VFX_FLARE05_32.BLP
+13:51:42: Info: Added SPELLS\T_VFX_FLARE05_32.BLP to the TextureList.
+13:51:42: Loading texture: CREATURE\SNOWFLAKECREATURE\T_VFX_FREEZE_C.BLP
+13:51:42: Info: Added CREATURE\SNOWFLAKECREATURE\T_VFX_FREEZE_C.BLP to the TextureList.
+13:51:42: Loading texture: SPELLS\T_VFX_FIRE01_A64_BLANK4.BLP
+13:51:42: Info: Added SPELLS\T_VFX_FIRE01_A64_BLANK4.BLP to the TextureList.
+13:51:43: Loading texture: SPELLS\T_VFX_FLARE05_A64.BLP
+13:51:43: Info: Added SPELLS\T_VFX_FLARE05_A64.BLP to the TextureList.
+13:51:43: Loading texture: Creature\BoneGuard\T_VFX_Ring_Smoke_B.blp
+13:51:43: Info: Added Creature\BoneGuard\T_VFX_Ring_Smoke_B.blp to the TextureList.
+13:51:50: Loading model: Creature\Bonespider\bonespider.m2, size: 268344
+
+13:51:50: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:50: Loading texture: CREATURE\PROTODRAGON\ORBREFLECT.BLP
+13:51:50: Info: Added CREATURE\PROTODRAGON\ORBREFLECT.BLP to the TextureList.
+13:51:50: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:50: Loading texture: Creature\Bonespider\BoneSpider_Ochre.blp
+13:51:50: Loading texture: Creature\Bonespider\BoneSpider_Ochre_Glow.blp
+13:51:51: Loading model: Creature\Boneworm\boneworm.m2, size: 521792
+
+13:51:51: Loading texture: CREATURE\BONEWORM\BONEWORM.BLP
+13:51:51: Info: Added CREATURE\BONEWORM\BONEWORM.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\SANDWORM\ORBREFLECT03.BLP
+13:51:51: Info: Added CREATURE\SANDWORM\ORBREFLECT03.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\BONEWORM\BONEWORMSPECALPHA.BLP
+13:51:51: Info: Added CREATURE\BONEWORM\BONEWORMSPECALPHA.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\SPELLS\DUST5A.BLP
+13:51:51: Info: Added CREATURE\SPELLS\DUST5A.BLP to the TextureList.
+13:51:51: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP
+13:51:51: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP to the TextureList.
+13:51:51: Loading texture: TILESET\EXPANSION01\BONEWASTES\BONEWASTESDIRTHOLES.BLP
+13:51:51: Info: Added TILESET\EXPANSION01\BONEWASTES\BONEWASTESDIRTHOLES.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\BONEWORM\BONEWORM_BONE01.BLP
+13:51:51: Info: Added CREATURE\BONEWORM\BONEWORM_BONE01.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\BONEWORM\BONEWORM_BONE02.BLP
+13:51:51: Info: Added CREATURE\BONEWORM\BONEWORM_BONE02.BLP to the TextureList.
+13:51:51: Loading texture: CREATURE\BONEWORM\BONEWORM_BONE03.BLP
+13:51:51: Info: Added CREATURE\BONEWORM\BONEWORM_BONE03.BLP to the TextureList.
+13:51:54: Loading model: Creature\Broom\be_broom01.m2, size: 59426
+
+13:51:54: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP
+13:51:54: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\DUST1.BLP to the TextureList.
+13:51:54: Loading texture: WORLD\SKILLACTIVATED\CONTAINERS\SPARKLE.BLP
+13:51:54: Info: Added WORLD\SKILLACTIVATED\CONTAINERS\SPARKLE.BLP to the TextureList.
+13:51:54: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\MISC_2H_BROOM_A_01.BLP
+13:51:54: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\MISC_2H_BROOM_A_01.BLP to the TextureList.
+13:51:55: Loading model: Creature\Broommount\broommount.m2, size: 70064
+
+13:51:55: Loading texture: CREATURE\BROOMMOUNT\BROOMSTICK_MOUNT.BLP
+13:51:55: Info: Added CREATURE\BROOMMOUNT\BROOMSTICK_MOUNT.BLP to the TextureList.
+13:51:55: Loading texture: WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP
+13:51:55: Info: Added WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP to the TextureList.
+13:51:56: Loading texture: WORLD\EXPANSION01\DOODADS\GENERIC\BURNINGLEGION\BANNERS\FIRESWIRLGREEN.BLP
+13:51:56: Info: Added WORLD\EXPANSION01\DOODADS\GENERIC\BURNINGLEGION\BANNERS\FIRESWIRLGREEN.BLP to the TextureList.
+13:51:56: Loading texture: WORLD\SKILLACTIVATED\CONTAINERS\SPARKLE.BLP
+13:51:56: Info: Added WORLD\SKILLACTIVATED\CONTAINERS\SPARKLE.BLP to the TextureList.
+13:51:56: Loading texture: WORLD\GOOBER\SMOKE_1.BLP
+13:51:56: Info: Added WORLD\GOOBER\SMOKE_1.BLP to the TextureList.
+13:51:57: Loading model: Creature\Brutallus\brutallus.m2, size: 1163552
+
+13:51:57: Loading texture: CREATURE\BRUTALLUS\BRUTALLUS2.BLP
+13:51:57: Info: Added CREATURE\BRUTALLUS\BRUTALLUS2.BLP to the TextureList.
+13:51:57: Loading texture: WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP
+13:51:57: Info: Added WORLD\KALIMDOR\MAURADON\PASSIVEDOODADS\SATYRHANGINGBRAZIERS\FIRE1WHITE.BLP to the TextureList.
+13:51:57: Loading texture: CREATURE\BRUTALLUS\BRUTALLUS1.BLP
+13:51:57: Info: Added CREATURE\BRUTALLUS\BRUTALLUS1.BLP to the TextureList.
+13:51:57: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+13:51:57: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList.
+13:51:57: Loading texture: SPELLS\SMOKE02C.BLP
+13:51:57: Info: Added SPELLS\SMOKE02C.BLP to the TextureList.
+13:51:57: Loading texture: CREATURE\PITLORD\PITLORD_MAT_C.BLP
+13:51:57: Info: Added CREATURE\PITLORD\PITLORD_MAT_C.BLP to the TextureList.
+13:51:57: Loading texture: WORLD\DREAMING\PASSIVEDOODADS\FLOWERS\DRIPPINGSAP.BLP
+13:51:57: Info: Added WORLD\DREAMING\PASSIVEDOODADS\FLOWERS\DRIPPINGSAP.BLP to the TextureList.
+13:51:57: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP
+13:51:57: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP to the TextureList.
+13:51:59: Loading model: Creature\Carrionbird\carrionbird.m2, size: 285632
+
+13:51:59: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:51:59: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:51:59: Loading texture: Creature\Carrionbird\CarrionBirdSkinWhite.blp
+13:51:59: Loading texture: Creature\Carrionbird\CarrionBirdWingWhite.blp
+13:52:00: Loading model: Creature\Carrionbirdoutland\carrionbirdoutland.m2, size: 308688
+
+13:52:00: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:00: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:01: Loading texture: Creature\Carrionbirdoutland\CarrionBirdSkinOutlandYellow.blp
+13:52:01: Loading texture: Creature\Carrionbirdoutland\CarrionBirdWingOutlandYellow.blp
+13:52:02: Loading model: Creature\Cat\cat.m2, size: 276722
+
+13:52:02: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:02: Loading texture: Creature\Cat\cringer.blp
+13:52:03: Loading model: Creature\Celestialdragonwyrm\celestialdragonwyrm.m2, size: 538484
+
+13:52:03: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP
+13:52:03: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP to the TextureList.
+13:52:03: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP
+13:52:03: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP to the TextureList.
+13:52:03: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP
+13:52:03: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP to the TextureList.
+13:52:03: Loading texture: PARTICLES\STAR11B.BLP
+13:52:03: Info: Added PARTICLES\STAR11B.BLP to the TextureList.
+13:52:03: Loading texture: CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP
+13:52:03: Info: Added CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP to the TextureList.
+13:52:03: Loading texture: CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINGREEN.BLP
+13:52:03: Info: Added CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINGREEN.BLP to the TextureList.
+13:52:03: Loading texture: SPELLS\STAR8C.BLP
+13:52:03: Info: Added SPELLS\STAR8C.BLP to the TextureList.
+13:52:03: Loading texture: CREATURE\CHINESEDRAGON\CHINESEDRAGONWINGGREEN.BLP
+13:52:03: Info: Added CREATURE\CHINESEDRAGON\CHINESEDRAGONWINGGREEN.BLP to the TextureList.
+13:52:06: Loading model: Creature\Celestialhorse\celestialhorse.m2, size: 580496
+
+13:52:06: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP
+13:52:06: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP to the TextureList.
+13:52:06: Info: Added ChangableTexture3.blp to the TextureList via specialTextures.
+13:52:06: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP
+13:52:06: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP to the TextureList.
+13:52:06: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:06: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP
+13:52:06: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP to the TextureList.
+13:52:06: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:06: Loading texture: SPELLS\CLOUDS8X8.BLP
+13:52:06: Info: Added SPELLS\CLOUDS8X8.BLP to the TextureList.
+13:52:06: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP
+13:52:06: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP to the TextureList.
+13:52:07: Loading texture: CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP
+13:52:07: Info: Added CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP to the TextureList.
+13:52:07: Loading texture: CREATURE\WISP\STAR2_32.BLP
+13:52:07: Info: Added CREATURE\WISP\STAR2_32.BLP to the TextureList.
+13:52:07: Loading texture: Creature\Celestialhorse\celetsialhorse.blp
+13:52:08: Loading model: Creature\Centaur\centaur.m2, size: 225008
+
+13:52:08: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:08: Loading texture: Creature\Centaur\CentaurSkinYellow.blp
+13:52:10: Loading model: Creature\Chicken\chicken.m2, size: 101810
+
+13:52:10: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:11: Loading texture: Creature\Chicken\chickenskinrobot.blp
+13:52:12: Loading model: Creature\Chickenmount\chickenmount.m2, size: 277248
+
+13:52:12: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:12: Loading texture: Creature\Chickenmount\ChickenMount.blp
+13:52:14: Loading model: Creature\Chimera\chimera.m2, size: 449472
+
+13:52:14: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:14: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:14: Loading texture: Creature\Chimera\chimeraskin02.blp
+13:52:16: Loading model: Creature\Chimeraoutland\chimeraoutland.m2, size: 228576
+
+13:52:16: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:16: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:17: Loading texture: Creature\Chimeraoutland\chimeraskinoutlandwhite_02.blp
+13:52:17: Loading model: Creature\Chinesedragon\chinesedragon.m2, size: 332242
+
+13:52:17: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:17: Loading texture: CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINREFLECT.BLP
+13:52:17: Info: Added CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINREFLECT.BLP to the TextureList.
+13:52:17: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:18: Loading texture: Creature\Chinesedragon\chinesedragonskinred.blp
+13:52:19: Loading model: Creature\Clawofkathune\clawofkathune.m2, size: 46528
+
+13:52:19: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:19: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:19: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP
+13:52:19: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP to the TextureList.
+13:52:19: Loading texture: Creature\Clawofkathune\TentaclePink.blp
+13:52:20: Loading model: Creature\Clefthoove\clefthoove.m2, size: 192272
+
+13:52:20: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:20: Loading texture: CREATURE\CLEFTHOOVE\CLEFTHOOVEBLADEEDGE.BLP
+13:52:20: Info: Added CREATURE\CLEFTHOOVE\CLEFTHOOVEBLADEEDGE.BLP to the TextureList.
+13:52:21: Loading texture: Creature\Clefthoove\CleftHooveBrown.blp
+13:52:22: Loading model: Creature\Clockworkgiant\clockworkgiant.m2, size: 1127778
+
+13:52:22: Loading texture: CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT02.BLP
+13:52:22: Info: Added CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT02.BLP to the TextureList.
+13:52:22: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP
+13:52:22: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP to the TextureList.
+13:52:22: Loading texture: CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT02_GLOW.BLP
+13:52:22: Info: Added CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT02_GLOW.BLP to the TextureList.
+13:52:22: Loading texture: PARTICLES\SNOW1.BLP
+13:52:22: Info: Added PARTICLES\SNOW1.BLP to the TextureList.
+13:52:22: Loading texture: CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT01.BLP
+13:52:22: Info: Added CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT01.BLP to the TextureList.
+13:52:22: Loading texture: CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT01_GLOW.BLP
+13:52:22: Info: Added CREATURE\CLOCKWORKGIANT\CLOCKWORKGIANT01_GLOW.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_STRIKES01_BW.BLP
+13:52:22: Info: Added SPELLS\T_VFX_STRIKES01_BW.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\LIGHTNING_NEW.BLP
+13:52:22: Info: Added SPELLS\LIGHTNING_NEW.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_FLARE05_32.BLP
+13:52:22: Info: Added SPELLS\T_VFX_FLARE05_32.BLP to the TextureList.
+13:52:22: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE_WIDE.BLP
+13:52:22: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE_WIDE.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_STAR2.BLP
+13:52:22: Info: Added SPELLS\T_STAR2.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\STAR5A.BLP
+13:52:22: Info: Added SPELLS\STAR5A.BLP to the TextureList.
+13:52:22: Loading texture: CREATURE\CLOCKWORKGIANT\T_VFX_HERO_AURA_02_H_FLIP2.BLP
+13:52:22: Info: Added CREATURE\CLOCKWORKGIANT\T_VFX_HERO_AURA_02_H_FLIP2.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_RING_BOW.BLP
+13:52:22: Info: Added SPELLS\T_VFX_RING_BOW.BLP to the TextureList.
+13:52:22: Loading texture: CREATURE\KRAKKEN\WATERSPLASHLARGE01.BLP
+13:52:22: Info: Added CREATURE\KRAKKEN\WATERSPLASHLARGE01.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_FLAR_BLUR_64.BLP
+13:52:22: Info: Added SPELLS\T_VFX_FLAR_BLUR_64.BLP to the TextureList.
+13:52:22: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\BUILDING_BASE1_ALPHA.BLP
+13:52:22: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\BUILDING_BASE1_ALPHA.BLP to the TextureList.
+13:52:22: Loading texture: WORLD\EXPANSION02\DOODADS\HOWLINGFJORD\FIREFX\T_VFX_SMOKE_CIGARETE.BLP
+13:52:22: Info: Added WORLD\EXPANSION02\DOODADS\HOWLINGFJORD\FIREFX\T_VFX_SMOKE_CIGARETE.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_DOOR_BLACK.BLP
+13:52:22: Info: Added SPELLS\T_VFX_DOOR_BLACK.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_FLARE05.BLP
+13:52:22: Info: Added SPELLS\T_VFX_FLARE05.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_FIRE05_B.BLP
+13:52:22: Info: Added SPELLS\T_VFX_FIRE05_B.BLP to the TextureList.
+13:52:22: Loading texture: SPELLS\T_VFX_SMOKE64.BLP
+13:52:22: Info: Added SPELLS\T_VFX_SMOKE64.BLP to the TextureList.
+13:52:44: Loading model: Creature\Clockworkgnome\clockworkgnome_b.m2, size: 819856
+
+13:52:44: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:44: Loading texture: ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP
+13:52:44: Info: Added ITEM\OBJECTCOMPONENTS\SHOULDER\ORBREFLECT02.BLP to the TextureList.
+13:52:44: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+13:52:44: Info: Added ChangableTexture3.blp to the TextureList via specialTextures.
+13:52:44: Loading texture: PARTICLES\HELM_PLATE_NORTHREND_D_01GEM_PARTICLEB.BLP
+13:52:44: Info: Added PARTICLES\HELM_PLATE_NORTHREND_D_01GEM_PARTICLEB.BLP to the TextureList.
+13:52:44: Loading texture: Creature\Clockworkgnome\clockworkgnomefeat_dark.blp
+13:52:48: Loading model: Creature\Cloud\cloudswampgas.m2, size: 10464
+
+13:52:48: Loading texture: SPELLS\PURPLE_STAR.BLP
+13:52:48: Info: Added SPELLS\PURPLE_STAR.BLP to the TextureList.
+13:52:48: Loading texture: SPELLS\SHOCKWAVEWATER1.BLP
+13:52:48: Info: Added SPELLS\SHOCKWAVEWATER1.BLP to the TextureList.
+13:52:48: Loading texture: SPELLS\TOONSMOKE16.BLP
+13:52:48: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList.
+13:52:50: Loading model: Creature\Cockatrice\cockatriceelite.m2, size: 324880
+
+13:52:50: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+13:52:50: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+13:52:50: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList.
+13:52:50: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP
+13:52:50: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP to the TextureList.
+13:52:50: Loading texture: Creature\Cockatrice\cockatricetourney.blp
+16:57:49: Shuting down the program...
+
+16:57:49: Info: GUI Layout was saved.

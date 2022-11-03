@@ -1,0 +1,34 @@
+~SOUL EDGE MODEL~
+by Illidan(evil)x
+-----------------
+
+GIVE CREDITS TO ILLIDAN(EVIL)X IF YOU USE THIS MODEL IN YOUR MAP!!!
+
+-----------------
+-----------------
+Soul Edge History:
+Soul Edge was created by human hands. 
+At first it was just an ordinary sword, but after being bathed in blood and hatred countless times, the sword turned into a demonic weapon and gained a wicked soul called Inferno. 
+Those without strong wills are unable to escape the curse of its evil powers. 
+While it burns fiercely with the regret of lost souls, its blade shines with an icy gleam.
+------------------
+------------------
+How to use:
+   - Item:
+      ~ Just change the item model file to the Soul Edge Model.
+------------------
+   - Attachment: Ability or trigger
+      Ability:
+      ~ Copy and paste the Life Regeneration Aura in the spell section.
+      ~ Set the target effect model file to my Soul Edge model, and target attachment to left or right hand.
+      ~ Set spell target to only "SELF".
+      ~ Set Life Regenerated to 0.
+      ~ Give your unit the new ability.
+
+      Trigger:
+      ~ Special effect - create effect on unit.
+      ~ choose your unit and change the attachment point to "hand right" or "hand left"
+------------------
+     ENJOY!
+
+- Illidan(evil)x
